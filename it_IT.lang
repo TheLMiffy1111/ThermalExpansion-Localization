@@ -136,6 +136,7 @@ info.thermalexpansion.augment.fuelConsumed=Carburante consumato
 info.thermalexpansion.augment.fuelEnergy=Corrente da combustibile
 info.thermalexpansion.augment.levels.0=Richiede livelli precedenti per essere installato.
 info.thermalexpansion.augment.levels.1=Il più alto livello di potenziamento è usato.
+info.thermalexpansion.augment.levels.2=Richiede Controllo pietrarossa per essere installato.
 info.thermalexpansion.augment.machine.0=Richiede un 
 info.thermalexpansion.augment.machine.1=macchinario
 info.thermalexpansion.augment.secondaryChance=Possibilità di prodotto secondario
@@ -236,12 +237,12 @@ info.thermalexpansion.wrench=Usa una chiave inglese con Shift per smantellare.
 #Items
 item.thermalexpansion.augment.dynamoCoilDuct.name=Bobina di trasmissione con tubatura
 item.thermalexpansion.augment.dynamoEfficiency0.name=Ingranaggio secondario
+item.thermalexpansion.augment.dynamoThrottle.name=Limitatore di campo eccitazionale
 item.thermalexpansion.augment.dynamoEfficiency1.name=Ottimizatore del collegamento del flux
 item.thermalexpansion.augment.dynamoEfficiency2.name=CrioBobina regolante
 item.thermalexpansion.augment.dynamoOutput0.name=Bobina di trasmissione secondario
 item.thermalexpansion.augment.dynamoOutput1.name=Potenziatore di modulazione del flux
 item.thermalexpansion.augment.dynamoOutput2.name=CrioBobina amplificatore del flux 
-item.thermalexpansion.augment.dynamoThrottle.name=Limitatore di campo eccitazionale
 
 item.thermalexpansion.augment.generalAutoTransfer.name=Servomotore integrato
 item.thermalexpansion.augment.generalReconfigSides.name=Impalcatura modulare integrato
