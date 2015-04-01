@@ -506,16 +506,3 @@ tile.thermalexpansion.tank.basic.name=可攜水槽
 tile.thermalexpansion.tank.hardened.name=硬化可攜水槽
 tile.thermalexpansion.tank.reinforced.name=強化可攜水槽
 tile.thermalexpansion.tank.resonant.name=諧律可攜水槽
-
-#TCon compat
-material.thermalexpansion.invar=殷鋼
-material.thermalexpansion.nickel=亞鐵
-material.thermalexpansion.lead=鉛
-material.thermalexpansion.lead.ability=沉重
-material.thermalexpansion.silver=銀
-material.thermalexpansion.silver.ability=閃亮
-material.thermalexpansion.platinum=鉑
-material.thermalexpansion.platinum.ability=茂密
-material.thermalexpansion.electrum=琥珀金
-material.thermalexpansion.electrum.ability=花俏
-

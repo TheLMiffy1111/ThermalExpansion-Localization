@@ -507,15 +507,3 @@ tile.thermalexpansion.tank.basic.name=휴대용 탱크
 tile.thermalexpansion.tank.hardened.name=경화 휴대용 탱크
 tile.thermalexpansion.tank.reinforced.name=강화 휴대용 탱크
 tile.thermalexpansion.tank.resonant.name=공진 휴대용 탱크
-
-#TCon compat
-material.thermalexpansion.invar=Invar
-material.thermalexpansion.nickel=Ferrous
-material.thermalexpansion.lead=Lead
-material.thermalexpansion.lead.ability=Heavy
-material.thermalexpansion.silver=Silver
-material.thermalexpansion.silver.ability=Shiny
-material.thermalexpansion.platinum=Shiny
-material.thermalexpansion.platinum.ability=Dense
-material.thermalexpansion.electrum=Electrum
-material.thermalexpansion.electrum.ability=Fancy

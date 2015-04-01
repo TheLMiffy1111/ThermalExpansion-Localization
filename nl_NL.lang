@@ -467,15 +467,3 @@ tile.thermalexpansion.tank.basic.name=Draagbaar Reservoir
 tile.thermalexpansion.tank.hardened.name=Verharde Draagbaar Reservoir
 tile.thermalexpansion.tank.reinforced.name=Versterkt Draagbaar Reservoir
 tile.thermalexpansion.tank.resonant.name=Resonerend Draagbaar Reservoir
-
-#TCon compat
-material.thermalexpansion.invar=Invar
-material.thermalexpansion.nickel=Nikkel
-material.thermalexpansion.lead=Lood
-material.thermalexpansion.lead.ability=Zwaar
-material.thermalexpansion.silver=Zilver
-material.thermalexpansion.silver.ability=Glimmend
-material.thermalexpansion.platinum=Platinum
-material.thermalexpansion.platinum.ability=Hoge Dichtheid
-material.thermalexpansion.electrum=Elektrum
-material.thermalexpansion.electrum.ability=Mooi
