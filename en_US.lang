@@ -230,6 +230,7 @@ info.thermalexpansion.tool.igniter=Starts fires at a distance.
 info.thermalexpansion.tool.multimeter.0=Provides information about things.
 info.thermalexpansion.tool.multimeter.1=Use while sneaking to configure some devices.
 info.thermalexpansion.tool.pump=Pumps fluids into and out of compatible containers.
+info.thermalexpansion.tool.transfuser=Transfuses RF into and out of compatible items and devices.
 info.thermalexpansion.tool.wrench.0=Sure, it's a wrench.
 info.thermalexpansion.tool.wrench.1=But any tool is a hammer
 info.thermalexpansion.tool.wrench.2=if you need it to be one.
@@ -306,6 +307,7 @@ item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Flux Igniter
 item.thermalexpansion.tool.chiller.name=Flux Chiller
 item.thermalexpansion.tool.pump.name=FluiVac
+item.thermalexpansion.tool.transfuser.name=Flux Transfuser
 
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
