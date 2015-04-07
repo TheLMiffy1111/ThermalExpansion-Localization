@@ -292,9 +292,8 @@ item.thermalexpansion.satchel.hardened.name=Усиленный ранец
 item.thermalexpansion.satchel.reinforced.name=Укреплённый ранец
 item.thermalexpansion.satchel.resonant.name=Резонирующий ранец
 
-item.thermalexpansion.tool.invarBattleWrench.name=Инваровый боевой ключ
-
 item.thermalexpansion.tool.wrench.name=Серповидный молот
+item.thermalexpansion.tool.battleWrench.name=боевой ключ
 item.thermalexpansion.tool.multimeter.name=Мультиметр
 item.thermalexpansion.tool.debugger.name=Предмет отладки
 item.thermalexpansion.tool.igniter.name=Флаксовый воспламенитель

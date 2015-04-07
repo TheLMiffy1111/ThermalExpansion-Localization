@@ -198,11 +198,6 @@ info.thermalexpansion.storage.enchant=Kann verzaubert werden, um mehr Items zu h
 info.thermalexpansion.wrench=Zum Abbauen mit Schraubenschlüssel schleichend rechtsklicken.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=Invarhelm
-item.thermalexpansion.armor.invarPlate.name=Invarbrustpanzer
-item.thermalexpansion.armor.invarLegs.name=Invarbeinschutz
-item.thermalexpansion.armor.invarBoots.name=Invarstiefel
-
 item.thermalexpansion.augment.dynamoCoilDuct.name=Transmissionsspulenleitung
 item.thermalexpansion.augment.dynamoEfficiency0.name=Sekundärgetriebe
 item.thermalexpansion.augment.dynamoEfficiency1.name=Fluxfusionsoptimierung
@@ -253,18 +248,8 @@ item.thermalexpansion.satchel.hardened.name=Gehärteter Ranzen
 item.thermalexpansion.satchel.reinforced.name=Verstärkter Ranzen
 item.thermalexpansion.satchel.resonant.name=Resonanter Ranzen
 
-item.thermalexpansion.tool.invarBattleWrench.name=Invar-Kampfschraubenschlüssel
-item.thermalexpansion.tool.invarSword.name=Invarschwert
-item.thermalexpansion.tool.invarShovel.name=Invarschaufel
-item.thermalexpansion.tool.invarPickaxe.name=Invarspitzhacke
-item.thermalexpansion.tool.invarAxe.name=Invaraxt
-item.thermalexpansion.tool.invarHoe.name=Invarhacke
-item.thermalexpansion.tool.invarShears.name=Invarschere
-item.thermalexpansion.tool.invarFishingRod.name=Invarverstärkte Angelrute
-item.thermalexpansion.tool.invarSickle.name=Invarsichel
-item.thermalexpansion.tool.invarBow.name=Invarverstärkter Bogen
-
 item.thermalexpansion.tool.wrench.name=Sichelhammer
+item.thermalexpansion.tool.battleWrench.name=Kampfschraubenschlüssel
 item.thermalexpansion.tool.multimeter.name=Multimeter
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Fluxentzünder

@@ -225,12 +225,7 @@ info.thermalexpansion.securable=Possível segurar com uma trava.
 info.thermalexpansion.storage.enchant=Pode ser encantado para carregar mais itens.
 info.thermalexpansion.wrench=Use a Chave de Grifo agachado para desmontar.
 
-#Itens
-item.thermalexpansion.armor.invarHelmet.name=Elmo de Invar
-item.thermalexpansion.armor.invarPlate.name=Peitoral de Invar
-item.thermalexpansion.armor.invarLegs.name=Calças de Invar
-item.thermalexpansion.armor.invarBoots.name=Botas de Invar
-
+#Items
 item.thermalexpansion.augment.dynamoCoilDuct.name=Bobina de Transmissão para Dutos
 item.thermalexpansion.augment.dynamoEfficiency0.name=Caixa de Engrenagem Secundária
 item.thermalexpansion.augment.dynamoEfficiency1.name=Otimização de Ligação de Flux
@@ -283,8 +278,8 @@ item.thermalexpansion.satchel.hardened.name=Sacola Endurecida
 item.thermalexpansion.satchel.reinforced.name=Sacola Reforçada
 item.thermalexpansion.satchel.resonant.name=Sacola Ressonante
 
-item.thermalexpansion.tool.invarBattleWrench.name=Chave de Grifo de Batalha de Invar
 item.thermalexpansion.tool.wrench.name=Crescent Hammer (Chave de Grifo)
+item.thermalexpansion.tool.battleWrench.name=Chave de Grifo de Batalha
 item.thermalexpansion.tool.multimeter.name=Multímetro
 item.thermalexpansion.tool.debugger.name=Depurador
 item.thermalexpansion.tool.igniter.name=Ignição por Flux

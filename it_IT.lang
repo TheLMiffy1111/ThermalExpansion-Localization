@@ -293,9 +293,8 @@ item.thermalexpansion.satchel.hardened.name=Zaino indurito
 item.thermalexpansion.satchel.reinforced.name=Zaino rinforzato
 item.thermalexpansion.satchel.resonant.name=Zaino risonante
 
-item.thermalexpansion.tool.invarBattleWrench.name=Chiave da battaglia di invar
-
 item.thermalexpansion.tool.wrench.name=Martello a mezzaluna
+item.thermalexpansion.tool.battleWrench.name=Chiave da battaglia
 item.thermalexpansion.tool.multimeter.name=Multimetro
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Accendino a flux

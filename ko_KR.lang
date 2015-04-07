@@ -305,9 +305,8 @@ item.thermalexpansion.satchel.hardened.name=경화 가방
 item.thermalexpansion.satchel.reinforced.name=강화 가방
 item.thermalexpansion.satchel.resonant.name=공진 가방
 
-item.thermalexpansion.tool.invarBattleWrench.name=인바 전투 렌치
-
 item.thermalexpansion.tool.wrench.name=크레센트 해머
+item.thermalexpansion.tool.battleWrench.name=전투 렌치
 item.thermalexpansion.tool.multimeter.name=멀티 미터
 item.thermalexpansion.tool.debugger.name=디버거
 item.thermalexpansion.tool.igniter.name=플럭스 점화기

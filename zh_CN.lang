@@ -198,11 +198,6 @@ info.thermalexpansion.storage.enchant=附魔后可储存更多物品.
 info.thermalexpansion.wrench=潜行时使用扳手拆除.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=因瓦合金头盔
-item.thermalexpansion.armor.invarPlate.name=因瓦合金胸甲
-item.thermalexpansion.armor.invarLegs.name=因瓦合金护腿
-item.thermalexpansion.armor.invarBoots.name=因瓦合金靴子
-
 item.thermalexpansion.augment.dynamoCoilDuct.name=传输线圈管道
 item.thermalexpansion.augment.dynamoEfficiency0.name=二级变速装置
 item.thermalexpansion.augment.dynamoEfficiency1.name=通量连接优化
@@ -253,18 +248,8 @@ item.thermalexpansion.satchel.hardened.name=硬化背包
 item.thermalexpansion.satchel.reinforced.name=强化背包
 item.thermalexpansion.satchel.resonant.name=谐振背包
 
-item.thermalexpansion.tool.invarBattleWrench.name=因瓦合金战锤
-item.thermalexpansion.tool.invarSword.name=因瓦合金剑
-item.thermalexpansion.tool.invarShovel.name=因瓦合金铲
-item.thermalexpansion.tool.invarPickaxe.name=因瓦合金镐
-item.thermalexpansion.tool.invarAxe.name=因瓦合金斧
-item.thermalexpansion.tool.invarHoe.name=因瓦合金锄
-item.thermalexpansion.tool.invarShears.name=因瓦合金剪刀
-item.thermalexpansion.tool.invarFishingRod.name=因瓦合金钓鱼竿
-item.thermalexpansion.tool.invarSickle.name=因瓦合金镰刀
-item.thermalexpansion.tool.invarBow.name=因瓦合金弓
-
 item.thermalexpansion.tool.wrench.name=新月锤
+item.thermalexpansion.tool.battleWrench.name=战锤
 item.thermalexpansion.tool.multimeter.name=万用表
 item.thermalexpansion.tool.debugger.name=调试器
 item.thermalexpansion.tool.igniter.name=RF点火器

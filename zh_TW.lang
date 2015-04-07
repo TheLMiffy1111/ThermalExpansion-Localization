@@ -304,9 +304,8 @@ item.thermalexpansion.satchel.hardened.name=硬化小背包
 item.thermalexpansion.satchel.reinforced.name=強化小背包
 item.thermalexpansion.satchel.resonant.name=諧律小背包
 
-item.thermalexpansion.tool.invarBattleWrench.name=殷鋼戰鬥扳手
-
 item.thermalexpansion.tool.wrench.name=扳手
+item.thermalexpansion.tool.battleWrench.name=戰鬥扳手
 item.thermalexpansion.tool.multimeter.name=萬用電表
 item.thermalexpansion.tool.debugger.name=除錯器
 item.thermalexpansion.tool.igniter.name=RF點火器

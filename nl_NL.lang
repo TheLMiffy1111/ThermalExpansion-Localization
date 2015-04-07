@@ -205,11 +205,6 @@ info.thermalexpansion.storage.enchant=Kan betoverd worden om meer items te bevat
 info.thermalexpansion.wrench=Moersleutel tijdens het sluipen om te demonteren.
 
 #Items
-item.thermalexpansion.armor.invarHelmet.name=Invar Helm
-item.thermalexpansion.armor.invarPlate.name=Invar Borstplaat
-item.thermalexpansion.armor.invarLegs.name=Invar Broek
-item.thermalexpansion.armor.invarBoots.name=Invar Schoenen
-
 item.thermalexpansion.augment.dynamoCoilDuct.name=Transmissie Spoel Kanalisering
 item.thermalexpansion.augment.dynamoEfficiency0.name=Secundaire tandwieldoos
 item.thermalexpansion.augment.dynamoEfficiency1.name=Flux Verbinding Optimalisatie
@@ -262,18 +257,8 @@ item.thermalexpansion.satchel.hardened.name=Verharde Tas
 item.thermalexpansion.satchel.reinforced.name=Versterkte Tas
 item.thermalexpansion.satchel.resonant.name=Resonerende Tas
 
-item.thermalexpansion.tool.invarBattleWrench.name=Invar GevechtsMoersleutel
-item.thermalexpansion.tool.invarSword.name=Invar Zwaard
-item.thermalexpansion.tool.invarShovel.name=Invar Schep
-item.thermalexpansion.tool.invarPickaxe.name=Invar Pikhouweel
-item.thermalexpansion.tool.invarAxe.name=Invar Bijl
-item.thermalexpansion.tool.invarHoe.name=Invar Schoffel
-item.thermalexpansion.tool.invarShears.name=Invar Schaar
-item.thermalexpansion.tool.invarFishingRod.name=Invar Versterkte Vishengel
-item.thermalexpansion.tool.invarSickle.name=Invar Sikkel
-item.thermalexpansion.tool.invarBow.name=Invar Versterkte Boog
-
 item.thermalexpansion.tool.wrench.name=Maansikkel Hamer
+item.thermalexpansion.tool.battleWrench.name=GevechtsMoersleutel
 item.thermalexpansion.tool.multimeter.name=Multimeter
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Flux Ontsteker
