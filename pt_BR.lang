@@ -284,6 +284,7 @@ item.thermalexpansion.tool.multimeter.name=Multímetro
 item.thermalexpansion.tool.debugger.name=Depurador
 item.thermalexpansion.tool.igniter.name=Ignição por Flux
 
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocos
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Ferramentas
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Itens

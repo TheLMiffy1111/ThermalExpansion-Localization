@@ -298,6 +298,7 @@ item.thermalexpansion.tool.multimeter.name=Мультиметр
 item.thermalexpansion.tool.debugger.name=Предмет отладки
 item.thermalexpansion.tool.igniter.name=Флаксовый воспламенитель
 
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Блоки
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Инструменты
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Предметы

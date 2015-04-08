@@ -263,6 +263,7 @@ item.thermalexpansion.tool.multimeter.name=Multimeter
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Flux Ontsteker
 
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blokken
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Gereedschap
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items

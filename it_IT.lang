@@ -299,6 +299,7 @@ item.thermalexpansion.tool.multimeter.name=Multimetro
 item.thermalexpansion.tool.debugger.name=Debugger
 item.thermalexpansion.tool.igniter.name=Accendino a flux
 
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: blocchi
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: attrezzi
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: oggetti

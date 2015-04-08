@@ -310,6 +310,7 @@ item.thermalexpansion.tool.multimeter.name=萬用電表
 item.thermalexpansion.tool.debugger.name=除錯器
 item.thermalexpansion.tool.igniter.name=RF點火器
 
+itemGroup.thermalexpansion.creativeTab=精鍊機械
 itemGroup.thermalexpansion.creativeTabBlocks=精鍊機械|方塊
 itemGroup.thermalexpansion.creativeTabTools=精鍊機械|工具
 itemGroup.thermalexpansion.creativeTabItems=精鍊機械|物品

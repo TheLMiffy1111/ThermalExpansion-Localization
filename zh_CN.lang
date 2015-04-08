@@ -254,6 +254,7 @@ item.thermalexpansion.tool.multimeter.name=万用表
 item.thermalexpansion.tool.debugger.name=调试器
 item.thermalexpansion.tool.igniter.name=RF点火器
 
+itemGroup.thermalexpansion.creativeTab=热能扩展
 itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
 itemGroup.thermalexpansion.creativeTabItems=热能扩展|物品

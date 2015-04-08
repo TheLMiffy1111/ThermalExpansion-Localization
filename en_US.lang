@@ -308,6 +308,7 @@ item.thermalexpansion.tool.chiller.name=Flux Chiller
 item.thermalexpansion.tool.pump.name=FluiVac
 item.thermalexpansion.tool.transfuser.name=Flux Transfuser
 
+itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items

@@ -311,6 +311,7 @@ item.thermalexpansion.tool.multimeter.name=멀티 미터
 item.thermalexpansion.tool.debugger.name=디버거
 item.thermalexpansion.tool.igniter.name=플럭스 점화기
 
+itemGroup.thermalexpansion.creativeTab=써멀 익스팬션
 itemGroup.thermalexpansion.creativeTabBlocks=써멀 익스팬션: 블록
 itemGroup.thermalexpansion.creativeTabTools=써멀 익스팬션: 도구
 itemGroup.thermalexpansion.creativeTabItems=써멀 익스팬션: 아이템
