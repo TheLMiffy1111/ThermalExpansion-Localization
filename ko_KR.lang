@@ -149,6 +149,7 @@ info.thermalexpansion.augment.fuelConsumed=연료 소모
 info.thermalexpansion.augment.fuelEnergy=기본 발전량
 info.thermalexpansion.augment.levels.0=이전 단계의 업그레이드가 설치되 있어야합니다.
 info.thermalexpansion.augment.levels.1=가장 높은 단계의 강화만 적용됩니다.
+info.thermalexpansion.augment.levels.2=Requires Redstone Control to be installed.
 info.thermalexpansion.augment.machine.0=요구하는 것:
 info.thermalexpansion.augment.machine.1=단계의 기계가 필요합니다.
 info.thermalexpansion.augment.secondaryChance=추가 부산물 획득
@@ -237,6 +238,12 @@ info.thermalexpansion.florb.4=이 액체는 공기보다 가볍습니다.
 info.thermalexpansion.florb.5=더 멀리 던질 수 있습니다.
 
 info.thermalexpansion.tool.battleWrench=90% hammer, 10% wrench.
+info.thermalexpansion.tool.chiller=Chills things at a distance.
+info.thermalexpansion.tool.igniter=Starts fires at a distance.
+info.thermalexpansion.tool.multimeter.0=Provides information about things.
+info.thermalexpansion.tool.multimeter.1=Use while sneaking to configure some devices.
+info.thermalexpansion.tool.pump=Pumps fluids into and out of compatible containers.
+info.thermalexpansion.tool.transfuser=Transfuses RF into and out of compatible items and devices.
 info.thermalexpansion.tool.wrench.0=Sure, it's a wrench.
 info.thermalexpansion.tool.wrench.1=But any tool is a hammer
 info.thermalexpansion.tool.wrench.2=if you need it to be one.
@@ -248,13 +255,13 @@ info.thermalexpansion.tool.wrench.2=if you need it to be one.
 
 #아이템(Items)
 item.thermalexpansion.augment.dynamoCoilDuct.name=코일 수송 배관
+item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
 item.thermalexpansion.augment.dynamoEfficiency0.name=보조 변속기
 item.thermalexpansion.augment.dynamoEfficiency1.name=자속 연동 최적화
 item.thermalexpansion.augment.dynamoEfficiency2.name=극저온 코일 조절장치
 item.thermalexpansion.augment.dynamoOutput0.name=보조 전송 코일
 item.thermalexpansion.augment.dynamoOutput1.name=자속 제어 향상
 item.thermalexpansion.augment.dynamoOutput2.name=극저온 자속 증폭기
-##item.thermalexpansion.augment.dynamoThrottle.name=Excitation Field Limiter
 
 item.thermalexpansion.augment.generalAutoTransfer.name=내장 서보 매커니즘
 item.thermalexpansion.augment.generalReconfigSides.name=내장 모듈러 프레임 워크
@@ -310,6 +317,9 @@ item.thermalexpansion.tool.battleWrench.name=전투 렌치
 item.thermalexpansion.tool.multimeter.name=멀티 미터
 item.thermalexpansion.tool.debugger.name=디버거
 item.thermalexpansion.tool.igniter.name=플럭스 점화기
+item.thermalexpansion.tool.chiller.name=Flux Chiller
+item.thermalexpansion.tool.pump.name=FluiVac
+item.thermalexpansion.tool.transfuser.name=Flux Transfuser
 
 itemGroup.thermalexpansion.creativeTab=써멀 익스팬션
 itemGroup.thermalexpansion.creativeTabBlocks=써멀 익스팬션: 블록
@@ -451,6 +461,7 @@ tile.thermalexpansion.frame.tesseractFull.name=테서랙트 프레임 (가득참
 tile.thermalexpansion.frame.illuminator.name=조명기 틀
 
 tile.thermalexpansion.glass.name=경화 유리
+tile.thermalexpansion.glassLumium.name=Hardened Lumium Glass
 
 tile.thermalexpansion.light.name=6-발광 모드
 tile.thermalexpansion.light.illuminator.name=발광석 조명기
