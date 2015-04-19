@@ -136,6 +136,7 @@ info.thermalexpansion.augment.fuelConsumed=Топлива потреблено
 info.thermalexpansion.augment.fuelEnergy=Основная энергия топлива
 info.thermalexpansion.augment.levels.0=Требуется, чтобы предыдущие уровни были установлены.
 info.thermalexpansion.augment.levels.1=Используется высочайший уровень расширения.
+info.thermalexpansion.augment.levels.2=Требуется установленный красный контроль.
 info.thermalexpansion.augment.machine.0=Требуется
 info.thermalexpansion.augment.machine.1=механизм
 info.thermalexpansion.augment.secondaryChance=Вторичный шанс
@@ -224,6 +225,12 @@ info.thermalexpansion.florb.4=Эта жидкость легче воздуха.
 info.thermalexpansion.florb.5=Шарик будет лететь дальше.
 
 info.thermalexpansion.tool.battleWrench=На 90% молот, на 10% ключ.
+info.thermalexpansion.tool.chiller=Замораживает предметы на расстоянии.
+info.thermalexpansion.tool.igniter=Испускает огонь на расстоянии.
+info.thermalexpansion.tool.multimeter.0=Предоставляет информацию о вещах.
+info.thermalexpansion.tool.multimeter.1=Используйте, сидя, чтобы настроить некоторые устройства.
+info.thermalexpansion.tool.pump=Засасывает жидкости в совместимые контейнеры, а также высасывает из них.
+info.thermalexpansion.tool.transfuser=Переливает RF в совместимые предметы и устройства, а также забирает RF из них.
 info.thermalexpansion.tool.wrench.0=Конечно, это ключ.
 info.thermalexpansion.tool.wrench.1=Но любой инструмент - молот,
 info.thermalexpansion.tool.wrench.2=если он Вам нужен.
@@ -235,13 +242,13 @@ info.thermalexpansion.wrench=Ударьте ключом сидя, чтобы д
 
 #Items
 item.thermalexpansion.augment.dynamoCoilDuct.name=Канал отдающей катушки
+item.thermalexpansion.augment.dynamoThrottle.name=Ограничитель поля намагничивания
 item.thermalexpansion.augment.dynamoEfficiency0.name=Вторичный редуктор
 item.thermalexpansion.augment.dynamoEfficiency1.name=Оптимизация флаксовой связи
 item.thermalexpansion.augment.dynamoEfficiency2.name=Регулятор криогенной катушки
 item.thermalexpansion.augment.dynamoOutput0.name=Вторичная отдающая катушка
 item.thermalexpansion.augment.dynamoOutput1.name=Усилитель модуляции флакса
 item.thermalexpansion.augment.dynamoOutput2.name=Флаксовый усилитель криогенной катушки
-item.thermalexpansion.augment.dynamoThrottle.name=Ограничитель поля намагничивания
 
 item.thermalexpansion.augment.generalAutoTransfer.name=Интегрированный сервомеханизм
 item.thermalexpansion.augment.generalReconfigSides.name=Интегрированная модульная структура
@@ -293,10 +300,13 @@ item.thermalexpansion.satchel.reinforced.name=Укреплённый ранец
 item.thermalexpansion.satchel.resonant.name=Резонирующий ранец
 
 item.thermalexpansion.tool.wrench.name=Серповидный молот
-item.thermalexpansion.tool.battleWrench.name=боевой ключ
+item.thermalexpansion.tool.battleWrench.name=Боевой ключ
 item.thermalexpansion.tool.multimeter.name=Мультиметр
 item.thermalexpansion.tool.debugger.name=Предмет отладки
 item.thermalexpansion.tool.igniter.name=Флаксовый воспламенитель
+item.thermalexpansion.tool.chiller.name=Флаксовый замораживатель
+item.thermalexpansion.tool.pump.name=Жидкостная помпа
+item.thermalexpansion.tool.transfuser.name=Флаксовый переливатель
 
 itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Блоки
@@ -438,6 +448,7 @@ tile.thermalexpansion.frame.tesseractFull.name=Рамка тессеракта (
 tile.thermalexpansion.frame.illuminator.name=Рамка светильника
 
 tile.thermalexpansion.glass.name=Закалённое стекло
+tile.thermalexpansion.glassLumium.name=Закалённое ламиумовое стекло
 
 tile.thermalexpansion.light.name=6-режимное освещение
 tile.thermalexpansion.light.illuminator.name=Светильник из светящегося камня
