@@ -11,7 +11,7 @@ achievement.thermalexpansion.pulverizer=MÁQUINA ESMAGA!
 achievement.thermalexpansion.pulverizer.desc=Minério insignificante.
 achievement.thermalexpansion.sawmill=Odeie árvores, ame madeira.
 achievement.thermalexpansion.sawmill.desc=Igual a socar árvores, só que melhor.
-achievement.thermalexpansion.smelter=Dois lingotes entram, um lingote sai.
+achievement.thermalexpansion.smelter=Duas barras entram, uma barra sai.
 achievement.thermalexpansion.smelter.desc=Absolutamente não é para fazer comida.
 achievement.thermalexpansion.crucible=Fundindo tudo.
 achievement.thermalexpansion.crucible.desc=Sim, ele faz lava. Seu monstro.
@@ -39,7 +39,7 @@ achievement.thermalexpansion.schematic.desc=É mais um tipo de plano.
 achievement.thermalexpansion.florb=Eu posso arremessar isso?!
 achievement.thermalexpansion.florb.desc=Contém um fluido, você pode arremessá-lo.
 achievement.thermalexpansion.florbMagmatic=Observe o mundo queimar.
-achievement.thermalexpansion.florbMagmatic.desc=´Florb´. Sim, dá pra por lava. Seu monstro.
+achievement.thermalexpansion.florbMagmatic.desc=Florb. Sim, dá pra por lava. Seu monstro.
 
 achievement.thermalexpansion.capacitorPotato=Uma ideia que acabou de sair do forno!
 achievement.thermalexpansion.capacitorPotato.desc=Ba-taaa-ta. *GLaDOS*
@@ -214,16 +214,16 @@ info.thermalexpansion.florb.1=Segura 1000 mB da maioria dos flúidos quentes.
 info.thermalexpansion.florb.2=Encher com um
 info.thermalexpansion.florb.3=Sim, você pode arremessar.
 info.thermalexpansion.florb.4=Este fluido é mais leve que o ar.
-info.thermalexpansion.florb.5=O ´Florb´ irá viajar mais longe.
+info.thermalexpansion.florb.5=O Florb irá viajar mais longe.
 
-info.thermalexpansion.tool.battleWrench=90% Martelo, 10% Chave de Grifo
-info.thermalexpansion.tool.wrench.0=Claro, é uma Chave de Grifo
+info.thermalexpansion.tool.battleWrench=90% Martelo, 10% Chave Inglesa
+info.thermalexpansion.tool.wrench.0=Claro, é uma Chave Inglesa
 info.thermalexpansion.tool.wrench.1=Mas qualquer ferramenta é um martelo
 info.thermalexpansion.tool.wrench.2=se você precisar que seja um.
 
 info.thermalexpansion.securable=Possível segurar com uma trava.
 info.thermalexpansion.storage.enchant=Pode ser encantado para carregar mais itens.
-info.thermalexpansion.wrench=Use a Chave de Grifo agachado para desmontar.
+info.thermalexpansion.wrench=Use a Chave Inglesa agachado para desmontar.
 
 #Items
 item.thermalexpansion.augment.dynamoCoilDuct.name=Bobina de Transmissão para Dutos
@@ -241,7 +241,7 @@ item.thermalexpansion.augment.generalRedstoneControl.name=Circuito de Redstone I
 
 item.thermalexpansion.augment.machineSecondary0.name=Peneira Secundária
 item.thermalexpansion.augment.machineSecondary1.name=Estrutura Estabilizada
-item.thermalexpansion.augment.machineSecondary2.name=GyroServo Responsivo
+item.thermalexpansion.augment.machineSecondary2.name=GiroServo Responsivo
 item.thermalexpansion.augment.machineSpeed0.name=Bobina de Recepção Secundária
 item.thermalexpansion.augment.machineSpeed1.name=Caixa de Engrenagem Modular com Overclock
 item.thermalexpansion.augment.machineSpeed2.name=Unificador de Espaço-Tempo de Flux
@@ -256,14 +256,14 @@ item.thermalexpansion.capacitor.resonant.name=Capacitor de Flux Ressonante
 item.thermalexpansion.diagram.schematic.name=Esquema
 item.thermalexpansion.diagram.redprint.name=Planta Vermelha
 
-item.thermalexpansion.florb.florb.name=´Florb´
-item.thermalexpansion.florb.florbMagmatic.name=´Florb´ Magmático
+item.thermalexpansion.florb.florb.name=Florb
+item.thermalexpansion.florb.florbMagmatic.name=Florb Magmático
 
 item.thermalexpansion.material.pneumaticServo.name=Servo Pneumático
 item.thermalexpansion.material.powerCoilGold.name=Bobina Receptora de Redstone
 item.thermalexpansion.material.powerCoilSilver.name=Bobina Transmissora de Redstone
 item.thermalexpansion.material.powerCoilElectrum.name=Bobina Condutora de Redstone
-item.thermalexpansion.material.lock.name=Trava de Segurança de Signalum
+item.thermalexpansion.material.lock.name=Trava de Segurança de Signalo
 
 item.thermalexpansion.material.dustWood.name=Serragem
 item.thermalexpansion.material.dustWoodCompressed.name=Serragem Comprimida
@@ -278,8 +278,8 @@ item.thermalexpansion.satchel.hardened.name=Sacola Endurecida
 item.thermalexpansion.satchel.reinforced.name=Sacola Reforçada
 item.thermalexpansion.satchel.resonant.name=Sacola Ressonante
 
-item.thermalexpansion.tool.wrench.name=Crescent Hammer (Chave de Grifo)
-item.thermalexpansion.tool.battleWrench.name=Chave de Grifo de Batalha
+item.thermalexpansion.tool.wrench.name=Martelo Tramontina (Chave Inglesa)
+item.thermalexpansion.tool.battleWrench.name=Chave Inglesa de Batalha
 item.thermalexpansion.tool.multimeter.name=Multímetro
 item.thermalexpansion.tool.debugger.name=Depurador
 item.thermalexpansion.tool.igniter.name=Ignição por Flux
@@ -288,7 +288,7 @@ itemGroup.thermalexpansion.creativeTab=Thermal Expansion
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocos
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Ferramentas
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Itens
-itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: ´Florbs´
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
 
 #NEI Recipe
 recipe.thermalexpansion.upgrade=Atualização de Montagem
@@ -395,19 +395,19 @@ tile.thermalexpansion.cell.reinforced.name=Célula de Energia de Redstone
 tile.thermalexpansion.cell.resonant.name=Célula de Energia Ressonante
 
 tile.thermalexpansion.device.workbench.name=Mesa de Trabalho do Maquinista
-tile.thermalexpansion.device.lexicon.name=Forja de Lexicon
+tile.thermalexpansion.device.lexicon.name=Léxico do Forge
 tile.thermalexpansion.device.activator.name=Ativador Autônomo
 tile.thermalexpansion.device.breaker.name=Quebrador de Terreno
-tile.thermalexpansion.device.nullifier.name=Nullificador
+tile.thermalexpansion.device.nullifier.name=Nulificador
 
 tile.thermalexpansion.dynamo=Dínamo
 tile.thermalexpansion.dynamo.steam.name=Dínamo a Vapor
 tile.thermalexpansion.dynamo.magmatic.name=Dínamo Magmático
 tile.thermalexpansion.dynamo.compression.name=Dínamo de Compressão
 tile.thermalexpansion.dynamo.reactant.name=Dínamo Reagente
-tile.thermalexpansion.dynamo.enervation.name=Dínamo ´Enervation´
+tile.thermalexpansion.dynamo.enervation.name=Dínamo de Enervação
 
-tile.thermalexpansion.ender.tesseract.name=Tesseract
+tile.thermalexpansion.ender.tesseract.name=Tesserato
 
 tile.thermalexpansion.frame.machineBasic.name=Estrutura de Máquina (Básica)
 tile.thermalexpansion.frame.machineHardened.name=Estrutura de Máquina (Endurecida)
@@ -416,29 +416,29 @@ tile.thermalexpansion.frame.machineResonant.name=Estrutura de Máquina (Ressonan
 tile.thermalexpansion.frame.cellBasic.name=Estrutura da Célula de Energia de Leadstone
 tile.thermalexpansion.frame.cellReinforcedEmpty.name=Estrutura da Célula de Energia de Redstone (Vazia)
 tile.thermalexpansion.frame.cellReinforcedFull.name=Estrutura da Célula de Energia de Redstone (Cheia)
-tile.thermalexpansion.frame.tesseractEmpty.name=Estrutura de Tesseract (Vazia)
-tile.thermalexpansion.frame.tesseractFull.name=Estrutura de Tesseract (Cheia)
+tile.thermalexpansion.frame.tesseractEmpty.name=Estrutura de Tesserato (Vazia)
+tile.thermalexpansion.frame.tesseractFull.name=Estrutura de Tesserato (Cheia)
 tile.thermalexpansion.frame.illuminator.name=Estrutura de Iluminador
 
 tile.thermalexpansion.glass.name=Vidro Endurecido
 
 tile.thermalexpansion.light.name=Iluminação de 6 Tipos
 tile.thermalexpansion.light.illuminator.name=Iluminador de Pedra Luminosa
-tile.thermalexpansion.light.lampLumiumRadiant.name=Lâmpada Radiante de Lumium
-tile.thermalexpansion.light.lampLumium.name=Lâmpada de Lumium
+tile.thermalexpansion.light.lampLumiumRadiant.name=Lâmpada Radiante de Lúmio
+tile.thermalexpansion.light.lampLumium.name=Lâmpada de Lúmio
 
 tile.thermalexpansion.machine.furnace.name=Fornalha de Redstone
 tile.thermalexpansion.machine.pulverizer.name=Pulverizador
 tile.thermalexpansion.machine.sawmill.name=Serraria
 tile.thermalexpansion.machine.smelter.name=Fundição Induzida
 tile.thermalexpansion.machine.crucible.name=Crisol Magmático
-tile.thermalexpansion.machine.transposer.name=Transposador de Flúidos
+tile.thermalexpansion.machine.transposer.name=Transposador de Fluidos
 tile.thermalexpansion.machine.precipitator.name=Precipitador Glacial
-tile.thermalexpansion.machine.extruder.name=Extrusador Ígneo
+tile.thermalexpansion.machine.extruder.name=Extrusor Ígneo
 tile.thermalexpansion.machine.accumulator.name=Acumulador Aquoso
 tile.thermalexpansion.machine.assembler.name=Montador Cíclico
 tile.thermalexpansion.machine.charger.name=Infusor Energético
-tile.thermalexpansion.machine.insolator.name=Insolator Fitogênico
+tile.thermalexpansion.machine.insolator.name=Insolador Fitogênico
 
 tile.thermalexpansion.plate.frame.name=Placa de Estrutura
 tile.thermalexpansion.plate.impulse.name=Placa de Impulso
