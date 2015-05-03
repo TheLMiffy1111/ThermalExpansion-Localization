@@ -27,6 +27,8 @@ achievement.thermalexpansion.assembler=恶性循环
 achievement.thermalexpansion.assembler.desc=不, 它不能那样子合成东西.
 achievement.thermalexpansion.charger=什么是RF?
 achievement.thermalexpansion.charger.desc=RF没有界限. 所以看你的手.
+achievement.thermalexpansion.insolator=盒子里的阳光!
+achievement.thermalexpansion.insolator.desc=当然不是有机的.
 
 achievement.thermalexpansion.wrench=看着像指甲!
 achievement.thermalexpansion.wrench.desc=如果你*真*需要任何工具的话, 试试这柄锤子.
@@ -63,18 +65,6 @@ chat.thermalexpansion.light.2=模式:比例(正比)
 chat.thermalexpansion.light.3=模式:比例(反比)
 chat.thermalexpansion.light.4=模式:总是关闭
 chat.thermalexpansion.light.5=模式:总是开启
-
-config.thermalexpansion.block=方块
-config.thermalexpansion.block.feature=启用/禁用
-config.thermalexpansion.block.tweak=行为
-config.thermalexpansion.item=物品
-config.thermalexpansion.item.feature=启用/禁用
-config.thermalexpansion.plugins=插件
-config.thermalexpansion.plugins.tweak=选项
-config.thermalexpansion.security=安全
-config.thermalexpansion.tweak=调整
-config.thermalexpansion.tweak.crafting=合成处理器
-config.thermalexpansion.tweak.recipe=配方
 
 #Cell
 info.thermalexpansion.cell.decRecv=减少RF输入通过
@@ -113,10 +103,24 @@ info.thermalexpansion.modeRecv=仅接收
 info.thermalexpansion.modeSend=仅发送
 info.thermalexpansion.modeSendRecv=发生/接收
 
+#Smelter
+info.thermalexpansion.toggleSmelterLock=锁定Flux格
+info.thermalexpansion.toggleSmelterUnlock=解锁Flux格
+
 #Transposer
 info.thermalexpansion.toggleEmpty=激活:空置
 info.thermalexpansion.toggleFill=激活:填充
 info.thermalexpansion.toggleWait=已激活
+
+#Insolator
+info.thermalexpansion.toggleInsolatorLock=锁定肥料格
+info.thermalexpansion.toggleInsolatorUnlock=解锁肥料格
+
+#Plates
+info.thermalexpansion.distance=距离
+info.thermalexpansion.intensitySignal=信号强度
+info.thermalexpansion.intensityImpulse=弹射力度
+info.thermalexpansion.duration=Duration
 
 #Tier Localization
 info.thermalexpansion.creative=创造
@@ -132,10 +136,15 @@ info.thermalexpansion.augment.fuelConsumed=燃料消耗
 info.thermalexpansion.augment.fuelEnergy=基础燃料能量
 info.thermalexpansion.augment.levels.0=需要先安装低级版本.
 info.thermalexpansion.augment.levels.1=已是最高级扩展.
+info.thermalexpansion.augment.levels.2=需要先安装红石控制模块.
 info.thermalexpansion.augment.machine.0=需要一个
 info.thermalexpansion.augment.machine.1=机器
 info.thermalexpansion.augment.secondaryChance=副产物几率
+info.thermalexpansion.augment.perOperation=对于每次操作
+info.thermalexpansion.augment.production=产物
 info.thermalexpansion.augment.speed=速度
+info.thermalexpansion.augment.upTo=最大提升至
+info.thermalexpansion.augment.waterConsumed=耗水量
 
 info.thermalexpansion.augment.dynamoCoilDuct=能源炉:侧面接入
 info.thermalexpansion.augment.dynamoCoilDuct.0=允许通过能源炉的线圈来输入输出物品和流体.
@@ -155,12 +164,23 @@ info.thermalexpansion.augment.generalRedstoneControl.0=允许在设备上使用�
 info.thermalexpansion.augment.machineSecondary=机器:副产输出
 info.thermalexpansion.augment.machineSpeed=机器:加工速度
 
+info.thermalexpansion.augment.machineFurnaceFood=红石炉: 特种化处理
+info.thermalexpansion.augment.machineFurnaceFood.0=提高食物产出.
+info.thermalexpansion.augment.machineFurnaceFood.1=只能处理食物.
+
+info.thermalexpansion.augment.machineExtruderBoost=造石机:批量作业
+
 info.thermalexpansion.capacitor.0=激活来为持有物品充能.
 info.thermalexpansion.capacitor.1=按住潜行(shift)键右击以使用即可激活.
 info.thermalexpansion.capacitor.2=为持有物品充能.
 info.thermalexpansion.capacitor.3=按住潜行(shift)键再次右击即可取消激活.
 info.thermalexpansion.capacitor.4=必须放在快捷栏内.
 info.thermalexpansion.capacitor.potato=机智的马铃薯君,可惜不能再次充能.
+
+info.thermalexpansion.device.workbench=合成物品;可使用蓝图.
+info.thermalexpansion.device.activator=能做的事情比提示文本告诉你的还要多.
+info.thermalexpansion.device.breaker=破坏方块.不能再简单了.
+info.thermalexpansion.device.nullifier=彻底移除物品的存在.
 
 info.thermalexpansion.diagram.0=潜行使用以清除.
 info.thermalexpansion.diagram.1=对设备使用以复制其配置.
@@ -174,6 +194,12 @@ info.thermalexpansion.dynamo.compression=需要流体燃料以及冷却剂.
 info.thermalexpansion.dynamo.reactant=需要流体燃料以及固体反应物.
 info.thermalexpansion.dynamo.enervation=从不同对象提取能量.
 
+info.thermalexpansion.ender.tesseract.0=统一时空中的某一点.
+info.thermalexpansion.ender.tesseract.1=可以传输物品,流体和RF.
+
+info.thermalexpansion.light.0=在收到红石信号时发光.
+info.thermalexpansion.light.1=可以变成绝大多数你想要的颜色.
+
 info.thermalexpansion.machine.furnace=冶炼物品.
 info.thermalexpansion.machine.pulverizer=粉碎物品.
 info.thermalexpansion.machine.sawmill=增产木材.
@@ -185,6 +211,11 @@ info.thermalexpansion.machine.extruder=混合冷热流体.
 info.thermalexpansion.machine.accumulator=从环境中抽取水.
 info.thermalexpansion.machine.assembler=合成物品.
 info.thermalexpansion.machine.charger=给物品充能(RF).
+info.thermalexpansion.machine.insolator=将'太阳'和RF注入植物中.
+
+info.thermalexpansion.plate.signal=向触点上物体发射红石信号.
+info.thermalexpansion.plate.impulse=向触点上物体施加动力.
+info.thermalexpansion.plate.translocate=传送触点上的物体.
 
 info.thermalexpansion.florb.0=可容纳1000mB大多数类型流体.
 info.thermalexpansion.florb.1=可容纳1000mB大多数类型流体.
@@ -193,6 +224,18 @@ info.thermalexpansion.florb.3=是的,你可以扔掉它.
 info.thermalexpansion.florb.4=这种流体比空气还轻.
 info.thermalexpansion.florb.5=这个流体球会跑很远.
 
+info.thermalexpansion.tool.battleWrench=90%的锤子, 10%的扳手.
+info.thermalexpansion.tool.chiller=冷却一定距离外的目标.
+info.thermalexpansion.tool.igniter=点燃一定距离外的目标.
+info.thermalexpansion.tool.multimeter.0=提供物品详细信息.
+info.thermalexpansion.tool.multimeter.1=在潜行配置机器属性时使用.
+info.thermalexpansion.tool.pump=将流体泵入或泵出合适的容器.
+info.thermalexpansion.tool.transfuser=将RF输入或输出到合适的物品或设备中.
+info.thermalexpansion.tool.wrench.0=确实,这是个扳手.
+info.thermalexpansion.tool.wrench.1=但是任何工具都是一个锤子
+info.thermalexpansion.tool.wrench.2=如果你希望它是个锤子的话.
+
+info.thermalexpansion.multimeter=潜行配置机器时使用.
 info.thermalexpansion.securable=安全锁定.
 info.thermalexpansion.storage.enchant=附魔后可储存更多物品.
 info.thermalexpansion.wrench=潜行时使用扳手拆除.
@@ -218,6 +261,12 @@ item.thermalexpansion.augment.machineSpeed0.name=二级接收线圈
 item.thermalexpansion.augment.machineSpeed1.name=超频变速模块
 item.thermalexpansion.augment.machineSpeed2.name=通量时空调谐
 
+item.thermalexpansion.augment.machineFurnaceFood.name=三角稳定舱室
+
+item.thermalexpansion.augment.machineExtruderBoost0.name=挤压加速装置
+item.thermalexpansion.augment.machineExtruderBoost1.name=火成触媒装置
+item.thermalexpansion.augment.machineExtruderBoost2.name=高温裂解生成
+
 item.thermalexpansion.capacitor.creative.name=创造RF电容
 item.thermalexpansion.capacitor.potato.name=马铃薯RF电容
 item.thermalexpansion.capacitor.basic.name=铅石RF电容
@@ -241,6 +290,8 @@ item.thermalexpansion.material.dustWood.name=锯末
 item.thermalexpansion.material.dustWoodCompressed.name=压缩锯末
 item.thermalexpansion.material.slag.name=矿渣
 item.thermalexpansion.material.slagRich.name=富集矿渣
+item.thermalexpansion.material.fertilizer.name=堆肥
+item.thermalexpansion.material.fertilizerRich.name=富集堆肥
 
 item.thermalexpansion.satchel.creative.name=创造背包
 item.thermalexpansion.satchel.basic.name=基础背包
@@ -253,12 +304,20 @@ item.thermalexpansion.tool.battleWrench.name=战锤
 item.thermalexpansion.tool.multimeter.name=万用表
 item.thermalexpansion.tool.debugger.name=调试器
 item.thermalexpansion.tool.igniter.name=RF点火器
+item.thermalexpansion.tool.chiller.name=RF冷凝器
+item.thermalexpansion.tool.pump.name=真空移液器
+item.thermalexpansion.tool.transfuser.name=RF转移器
 
 itemGroup.thermalexpansion.creativeTab=热能扩展
 itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
 itemGroup.thermalexpansion.creativeTabItems=热能扩展|物品
 itemGroup.thermalexpansion.creativeTabFlorbs=热能扩展|流体球
+
+#NEI Recipes
+recipe.thermalexpansion.machine=机器合成
+recipe.thermalexpansion.upgrade=升级插件合成
+recipe.thermalexpansion.secure=安全保护合成
 
 #Info Tabs
 tab.thermalexpansion.cell.0=储存RF.
@@ -267,7 +326,6 @@ tab.thermalexpansion.cell.1=按住Shift或Ctrl调节能量控制.
 tab.thermalexpansion.device.workbench.0=合成物品!
 tab.thermalexpansion.device.workbench.1=合成配方可以导入或导出图纸.
 tab.thermalexpansion.device.workbench.2=Shift右击图纸以直接合成既存配方.
-tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=它能切片!能切块!能倒东西,也能扔东西!
 tab.thermalexpansion.device.activator.1=它可能是随机的,也可能不是.可能是潜行的,也可能不是.
 tab.thermalexpansion.device.activator.2=看起来就是万能的!
@@ -288,6 +346,10 @@ tab.thermalexpansion.dynamo.enervation.0=直接从天然物质或RF容器中提�
 tab.thermalexpansion.ender.tesseract.0=使用这些来即时进行超远距离或跨维度传输.
 tab.thermalexpansion.ender.tesseract.1=改变末影频率来调控连接.
 
+tab.thermalexpansion.light.0=高度可调节的光源,对红石信号敏感.
+tab.thermalexpansion.light.1=可使用滑块调节颜色和模式.
+tab.thermalexpansion.light.2=将黑暗替换为极好的灯光吧!
+
 tab.thermalexpansion.machine.furnace.0=使用RF来冶炼.
 tab.thermalexpansion.machine.furnace.1=烧制食物所需能量很少.
 tab.thermalexpansion.machine.furnace.2=Om nom nom.
@@ -299,7 +361,8 @@ tab.thermalexpansion.machine.sawmill.1=充分利用了树木资源.
 tab.thermalexpansion.machine.sawmill.2=小心你的手.
 tab.thermalexpansion.machine.smelter.0=冶炼金属以及需要高温的物质.
 tab.thermalexpansion.machine.smelter.1=处理矿物和组装高级设备时很有用.
-tab.thermalexpansion.machine.smelter.2=当然不能用于烧制食物.
+tab.thermalexpansion.machine.smelter.2=可锁定左边格子并只接受特定物品.
+tab.thermalexpansion.machine.smelter.3=当然不能用于烧制食物.
 tab.thermalexpansion.machine.crucible.0=将固体材料变为流体!
 tab.thermalexpansion.machine.crucible.1=组装高级设备时很有用.
 tab.thermalexpansion.machine.crucible.2=远离儿童和宠物.
@@ -321,6 +384,17 @@ tab.thermalexpansion.machine.assembler.2=不,它无法而成.
 tab.thermalexpansion.machine.charger.0=给可储存RF的物品充能.
 tab.thermalexpansion.machine.charger.1=充能速度受物品限制.
 tab.thermalexpansion.machine.charger.2=嗡嗡嗡.
+tab.thermalexpansion.machine.insolator.0=在RF的帮助下,将养分和光线注入植物.
+tab.thermalexpansion.machine.insolator.1=并不是完全的'有机'种植技术.
+tab.thermalexpansion.machine.insolator.2=可锁定左边格子并只接受特定物品.
+tab.thermalexpansion.machine.insolator.3=光辉的炽热!
+
+tab.thermalexpansion.plate.signal.0=向触点发射远程红石信号.
+tab.thermalexpansion.plate.signal.1=信号属性可调.
+tab.thermalexpansion.plate.impulse.0=向触点施加动量.
+tab.thermalexpansion.plate.impulse.1=力度以及角度可调.
+tab.thermalexpansion.plate.translocate.0=传送接触到触点的实体或物体.
+tab.thermalexpansion.plate.translocate.1=距离可调.
 
 tab.thermalexpansion.satchel.0=这是个储物箱.无法储存多种物品.
 tab.thermalexpansion.satchel.1=无返还.
@@ -346,7 +420,6 @@ tile.thermalexpansion.cell.reinforced.name=强化红石能量单元
 tile.thermalexpansion.cell.resonant.name=谐振能量单元
 
 tile.thermalexpansion.device.workbench.name=机械师工作台
-tile.thermalexpansion.device.lexicon.name=矿物辞典
 tile.thermalexpansion.device.activator.name=自动执行器
 tile.thermalexpansion.device.breaker.name=方块采掘机
 tile.thermalexpansion.device.nullifier.name=焚毁炉
@@ -365,17 +438,22 @@ tile.thermalexpansion.frame.machineHardened.name=机器框架(硬化)
 tile.thermalexpansion.frame.machineReinforced.name=机器框架(强化)
 tile.thermalexpansion.frame.machineResonant.name=机器框架(谐振)
 tile.thermalexpansion.frame.cellBasic.name=铅石能量元件框架
+tile.thermalexpansion.frame.cellHardened.name=硬化能量元件框架
 tile.thermalexpansion.frame.cellReinforcedEmpty.name=红石能量元件框架(空)
 tile.thermalexpansion.frame.cellReinforcedFull.name=红石能量元件框架(满)
+tile.thermalexpansion.frame.cellResonantEmpty.name=谐振能量元件框架(空)
+tile.thermalexpansion.frame.cellResonantFull.name=谐振能量元件框架(满)
 tile.thermalexpansion.frame.tesseractEmpty.name=超立方体框架(空)
 tile.thermalexpansion.frame.tesseractFull.name=超立方体框架(满)
 tile.thermalexpansion.frame.illuminator.name=灯具框架
 
 tile.thermalexpansion.glass.name=强化玻璃
+tile.thermalexpansion.glassLumium.name=强化流明玻璃
 
 tile.thermalexpansion.light.name=6种照明模式
-tile.thermalexpansion.light.illuminator.name=萤石光源
+tile.thermalexpansion.light.illuminator.name=荧石光源
 tile.thermalexpansion.light.lampLumiumRadiant.name=照明灯具
+tile.thermalexpansion.light.lampLumium.name=照明灯具
 
 tile.thermalexpansion.machine.furnace.name=红石炉
 tile.thermalexpansion.machine.pulverizer.name=磨粉机
@@ -388,6 +466,12 @@ tile.thermalexpansion.machine.extruder.name=造石机
 tile.thermalexpansion.machine.accumulator.name=蓄水器
 tile.thermalexpansion.machine.assembler.name=循环装配台
 tile.thermalexpansion.machine.charger.name=能量灌注机
+tile.thermalexpansion.machine.insolator.name=有机灌注器
+
+tile.thermalexpansion.plate.frame.name=感应板框架
+tile.thermalexpansion.plate.impulse.name=脉冲感应板
+tile.thermalexpansion.plate.signal.name=红石感应板
+tile.thermalexpansion.plate.translocate.name=移位感应板
 
 tile.thermalexpansion.rockwool.black.name=黑色石棉
 tile.thermalexpansion.rockwool.red.name=红色石棉
