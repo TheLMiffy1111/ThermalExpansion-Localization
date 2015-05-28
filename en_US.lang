@@ -217,6 +217,9 @@ info.thermalexpansion.plate.signal=Emits a redstone signal on contact.
 info.thermalexpansion.plate.impulse=Imparts motion to things on contact.
 info.thermalexpansion.plate.translocate=Teleports things on contact.
 
+info.thermalexpansion.rockwool.default=Created by smelting Slag.
+info.thermalexpansion.rockwool.dyed=Created by dyeing other Rockwool.
+
 info.thermalexpansion.florb.0=Holds 1000 mB of most fluids.
 info.thermalexpansion.florb.1=Holds 1000 mB of most hot fluids.
 info.thermalexpansion.florb.2=Fill with a
