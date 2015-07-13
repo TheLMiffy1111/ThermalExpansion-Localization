@@ -150,7 +150,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Přístupnost stran
 info.thermalexpansion.augment.dynamoCoilDuct.0=Umožňuje vkládání a odebírání předmětů skrz cívku dynama.
 info.thermalexpansion.augment.dynamoEfficiency=Dynamo: Efektivita paliva
 info.thermalexpansion.augment.dynamoOutput=Dynamo: Výstup energie
-info.thermalexpansion.augment.dynamoOutput.0=Dodatečné RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Pokročilé škrcení
 info.thermalexpansion.augment.dynamoThrottle.0=Zlepšuje škrcení dynama takže to může omezit výstup energie na 0 RF/t.
 

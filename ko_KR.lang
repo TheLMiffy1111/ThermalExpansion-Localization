@@ -163,7 +163,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=다이나모: 측면 접근 허용
 info.thermalexpansion.augment.dynamoCoilDuct.0=다이나모에서 아이템과 액체를 내보내고 받을 수 있게 합니다.
 info.thermalexpansion.augment.dynamoEfficiency=다이나모: 연료 효율
 info.thermalexpansion.augment.dynamoOutput=다이나모: 에너지 출력
-info.thermalexpansion.augment.dynamoOutput.0=틱당 RF출력을 증가
 info.thermalexpansion.augment.dynamoThrottle=다이나모: 고급 제어
 info.thermalexpansion.augment.dynamoThrottle.0=다이나모의 에너지출력을 0 까지 변경할 수 있게합니다.
 

@@ -150,7 +150,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=能源炉:侧面接入
 info.thermalexpansion.augment.dynamoCoilDuct.0=允许通过能源炉的线圈来输入输出物品和流体.
 info.thermalexpansion.augment.dynamoEfficiency=能源炉:燃料效率
 info.thermalexpansion.augment.dynamoOutput=能源炉:能量输出
-info.thermalexpansion.augment.dynamoOutput.0=增加 RF/t
 info.thermalexpansion.augment.dynamoThrottle=能源炉:高级节流
 info.thermalexpansion.augment.dynamoThrottle.0=提升能源炉的节流因此有可能将能量输出减至0 RF/t.
 

@@ -161,7 +161,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=發電機:側面傳輸
 info.thermalexpansion.augment.dynamoCoilDuct.0=允許通過發電機的線圈來輸入輸出物品和流體.
 info.thermalexpansion.augment.dynamoEfficiency=發電機:燃料效率
 info.thermalexpansion.augment.dynamoOutput=發電機:能量輸出
-info.thermalexpansion.augment.dynamoOutput.0=增加 RF/t
 info.thermalexpansion.augment.dynamoThrottle=發電機:高級節流閥
 info.thermalexpansion.augment.dynamoThrottle.0=加強發電機的節流閥, 因此有可能將能量輸出減至0 RF/t.
 

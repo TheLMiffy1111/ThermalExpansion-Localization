@@ -150,7 +150,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=Генератор: Сторонн�
 info.thermalexpansion.augment.dynamoCoilDuct.0=Позволяет вводить/выводить предметы и жидкости через катушку генератора.
 info.thermalexpansion.augment.dynamoEfficiency=Генератор: Эффективность топлива
 info.thermalexpansion.augment.dynamoOutput=Генератор: Выходная энергия
-info.thermalexpansion.augment.dynamoOutput.0=Дополнительный RF/т
 info.thermalexpansion.augment.dynamoThrottle=Генератор: Продвинутое регулирование
 info.thermalexpansion.augment.dynamoThrottle.0=Улучшает регулирование генератора так, что он может уменьшить выход энергии до 0 RF/т.
 

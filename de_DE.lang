@@ -138,10 +138,9 @@ info.thermalexpansion.augment.secondaryChance=Sekundärchance
 info.thermalexpansion.augment.speed=Geschwindigkeit
 
 info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Seitenzugänglichkeit
-info.thermalexpansion.augment.dynamoCoilDuct.0=Erlaubt die Insertion und Extraktion von Items und Flüssigkeiten durch die Spule des Dynamos.
+info.thermalexpansion.augment.dynamoCoilDuct.0=Erlaubt die Insertion und Extraktion durch die Spule des Dynamos.
 info.thermalexpansion.augment.dynamoEfficiency=Dynamo: Brennstoffeffizienz
 info.thermalexpansion.augment.dynamoOutput=Dynamo: Energie-Output
-info.thermalexpansion.augment.dynamoOutput.0=Zusätzliche RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Fortgeschrittenes Drosseln
 info.thermalexpansion.augment.dynamoThrottle.0=Verbessert die Drosselung eines Dynamos, sodass Energieverschwendung auf 0 RF/t reduziert werden kann.
 

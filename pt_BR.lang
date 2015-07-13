@@ -158,7 +158,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=Dínamo: Acessibilide Lateral
 info.thermalexpansion.augment.dynamoCoilDuct.0=Permite insersão e extração de itens e fluidos através da bobina de um dínamo.
 info.thermalexpansion.augment.dynamoEfficiency=Dínamo: Eficiência de Combustível
 info.thermalexpansion.augment.dynamoOutput=Dínamo: Saída de Energia
-info.thermalexpansion.augment.dynamoOutput.0=RF/t adicional
 info.thermalexpansion.augment.dynamoThrottle=Dínamo: Regulagem Avançada
 info.thermalexpansion.augment.dynamoThrottle.0=Melhora o regulagem do dínamo para conseguir reduzir a saída de energia para 0 RF/t.
 

@@ -137,7 +137,6 @@ info.thermalexpansion.augment.dynamoCoilDuct=Dynamo: Zijde Toegankelijkheid
 info.thermalexpansion.augment.dynamoCoilDuct.0=Staat invoer en uitvoer van items en vloeistoffen toe door de spoel van een dynamo.
 info.thermalexpansion.augment.dynamoEfficiency=Dynamo: Brandstof Efficiëntie
 info.thermalexpansion.augment.dynamoOutput=Dynamo: Energie Uitvoer
-info.thermalexpansion.augment.dynamoOutput.0=Extra RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Geanvanceerde schakeling
 info.thermalexpansion.augment.dynamoThrottle.0=Verbeter de schakeling van een dynamo zodat de energie outvoer kan worden verlaagt naar 0 RF/t.
 

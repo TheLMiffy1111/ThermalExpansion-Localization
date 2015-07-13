@@ -147,7 +147,7 @@ info.thermalexpansion.augment.upTo=Fino a
 info.thermalexpansion.augment.waterConsumed=Acqua consumata
 
 info.thermalexpansion.augment.dynamoCoilDuct=Dinamo: Accessabilità dai lati
-info.thermalexpansion.augment.dynamoCoilDuct.0=Permette di inserire e estrarre oggetti e fluidi attraverso la bobina del dinamo.
+info.thermalexpansion.augment.dynamoCoilDuct.0=Permette di inserire e estrarre attraverso la bobina del dinamo.
 info.thermalexpansion.augment.dynamoEfficiency=Dinamo: Efficenza carburante
 info.thermalexpansion.augment.dynamoOutput=Dinamo: Produzione corrente
 info.thermalexpansion.augment.dynamoOutput.0=RF/t addizionale
