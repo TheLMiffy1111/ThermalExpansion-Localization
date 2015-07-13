@@ -162,8 +162,8 @@ info.thermalexpansion.augment.dynamoOutput.0=RF/t adicional
 info.thermalexpansion.augment.dynamoThrottle=Dínamo: Regulagem Avançada
 info.thermalexpansion.augment.dynamoThrottle.0=Melhora o regulagem do dínamo para conseguir reduzir a saída de energia para 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Saída Automatizada
-info.thermalexpansion.augment.generalAutoTransfer.0=Permite que itens e fluídos sejam automaticamente transferidos para fora do dispositivo.
+info.thermalexpansion.augment.generalAutoOutput=Saída Automatizada
+info.thermalexpansion.augment.generalAutoOutput.0=Permite que itens e fluídos sejam automaticamente transferidos para fora do dispositivo.
 info.thermalexpansion.augment.generalReconfigSides=Lados Reconfiguráveis
 info.thermalexpansion.augment.generalReconfigSides.0=Permite reconfigurar os lados do dispositivo.
 info.thermalexpansion.augment.generalRedstoneControl=Controle de Redstone
@@ -235,7 +235,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=Modulador de Intensidade de Flu
 item.thermalexpansion.augment.dynamoOutput2.name=Amplificador de CrioBobina de Flux
 item.thermalexpansion.augment.dynamoThrottle.name=Limitador de Campo de Excitação
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Mecanismo de Servo Integrado
+item.thermalexpansion.augment.generalAutoOutput.name=Mecanismo de Servo Integrado
 item.thermalexpansion.augment.generalReconfigSides.name=Estrutura Modular Integrada
 item.thermalexpansion.augment.generalRedstoneControl.name=Circuito de Redstone Integrado
 

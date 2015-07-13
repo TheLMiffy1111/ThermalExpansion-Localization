@@ -154,8 +154,8 @@ info.thermalexpansion.augment.dynamoOutput.0=Dodatečné RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Pokročilé škrcení
 info.thermalexpansion.augment.dynamoThrottle.0=Zlepšuje škrcení dynama takže to může omezit výstup energie na 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Automatizovaný výstup
-info.thermalexpansion.augment.generalAutoTransfer.0=Umožňuje předmětům a tekutinám automatický přenos ven ze zařízení.
+info.thermalexpansion.augment.generalAutoOutput=Automatizovaný výstup
+info.thermalexpansion.augment.generalAutoOutput.0=Umožňuje předmětům a tekutinám automatický přenos ven ze zařízení.
 info.thermalexpansion.augment.generalReconfigSides=Přenastavitelné strany
 info.thermalexpansion.augment.generalReconfigSides.0=Umožňuje přenastavení stran zařízení.
 info.thermalexpansion.augment.generalRedstoneControl=Ruditové ovládání
@@ -253,7 +253,7 @@ item.thermalexpansion.augment.dynamoOutput0.name=Sekundární cívka převodovky
 item.thermalexpansion.augment.dynamoOutput1.name=Fluxový modulační zesilovač
 item.thermalexpansion.augment.dynamoOutput2.name=Fluxový zesilovač kryocívky
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Integrovaný servo mechanismus
+item.thermalexpansion.augment.generalAutoOutput.name=Integrovaný servo mechanismus
 item.thermalexpansion.augment.generalReconfigSides.name=Integrovaný modulární rámec
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrovaný ruditový obvod
 

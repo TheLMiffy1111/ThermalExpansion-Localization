@@ -154,8 +154,8 @@ info.thermalexpansion.augment.dynamoOutput.0=增加 RF/t
 info.thermalexpansion.augment.dynamoThrottle=能源炉:高级节流
 info.thermalexpansion.augment.dynamoThrottle.0=提升能源炉的节流因此有可能将能量输出减至0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=自动输出
-info.thermalexpansion.augment.generalAutoTransfer.0=允许物品和流体从设备中自动输出.
+info.thermalexpansion.augment.generalAutoOutput=自动输出
+info.thermalexpansion.augment.generalAutoOutput.0=允许物品和流体从设备中自动输出.
 info.thermalexpansion.augment.generalReconfigSides=侧面重组
 info.thermalexpansion.augment.generalReconfigSides.0=允许重新设置设备的侧面.
 info.thermalexpansion.augment.generalRedstoneControl=红石控制
@@ -250,7 +250,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=通量调控加速
 item.thermalexpansion.augment.dynamoOutput2.name=低温线圈增幅
 item.thermalexpansion.augment.dynamoThrottle.name=励磁限制装置
 
-item.thermalexpansion.augment.generalAutoTransfer.name=集成伺服装置
+item.thermalexpansion.augment.generalAutoOutput.name=集成伺服装置
 item.thermalexpansion.augment.generalReconfigSides.name=集成模块框架
 item.thermalexpansion.augment.generalRedstoneControl.name=集成红石电路
 

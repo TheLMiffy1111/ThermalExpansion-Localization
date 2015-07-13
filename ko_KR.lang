@@ -167,8 +167,8 @@ info.thermalexpansion.augment.dynamoOutput.0=틱당 RF출력을 증가
 info.thermalexpansion.augment.dynamoThrottle=다이나모: 고급 제어
 info.thermalexpansion.augment.dynamoThrottle.0=다이나모의 에너지출력을 0 까지 변경할 수 있게합니다.
 
-info.thermalexpansion.augment.generalAutoTransfer=자동 추출
-info.thermalexpansion.augment.generalAutoTransfer.0=기계에서 아이템과 액체를 자동으로 운송할 수 있게 합니다.
+info.thermalexpansion.augment.generalAutoOutput=자동 추출
+info.thermalexpansion.augment.generalAutoOutput.0=기계에서 아이템과 액체를 자동으로 운송할 수 있게 합니다.
 info.thermalexpansion.augment.generalReconfigSides=측면 재설정
 info.thermalexpansion.augment.generalReconfigSides.0=기계의 입출력 방향 설정을 할 수 있게 합니다.
 info.thermalexpansion.augment.generalRedstoneControl=레드스톤 제어
@@ -263,7 +263,7 @@ item.thermalexpansion.augment.dynamoOutput0.name=보조 전송 코일
 item.thermalexpansion.augment.dynamoOutput1.name=자속 제어 향상
 item.thermalexpansion.augment.dynamoOutput2.name=극저온 자속 증폭기
 
-item.thermalexpansion.augment.generalAutoTransfer.name=내장 서보 매커니즘
+item.thermalexpansion.augment.generalAutoOutput.name=내장 서보 매커니즘
 item.thermalexpansion.augment.generalReconfigSides.name=내장 모듈러 프레임 워크
 item.thermalexpansion.augment.generalRedstoneControl.name=내장 레드스톤 회로
 

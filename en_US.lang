@@ -154,8 +154,10 @@ info.thermalexpansion.augment.dynamoOutput.0=Additional RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Advanced Throttling
 info.thermalexpansion.augment.dynamoThrottle.0=Improves the throttling of a dynamo such that it may reduce energy output to 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Automated Output
-info.thermalexpansion.augment.generalAutoTransfer.0=Allows for items and fluids to be automatically transferred out of a device.
+info.thermalexpansion.augment.generalAutoOutput=Automated Output
+info.thermalexpansion.augment.generalAutoOutput.0=Allows for items and fluids to be automatically transferred out of a device.
+info.thermalexpansion.augment.generalAutoInput=Automated Output
+info.thermalexpansion.augment.generalAutoInput.0=Allows for items and fluids to be automatically transferred into of a device.
 info.thermalexpansion.augment.generalReconfigSides=Reconfigurable Sides
 info.thermalexpansion.augment.generalReconfigSides.0=Allows for the sides of a device to be reconfigured.
 info.thermalexpansion.augment.generalRedstoneControl=Redstone Control
@@ -163,6 +165,9 @@ info.thermalexpansion.augment.generalRedstoneControl.0=Allows for redstone contr
 
 info.thermalexpansion.augment.machineSecondary=Machine: Secondary Output
 info.thermalexpansion.augment.machineSpeed=Machine: Processing Speed
+
+info.thermalexpansion.augment.machineNull=Machine: Secondary Nullifier
+info.thermalexpansion.augment.machineNull.0=Destroys excess secondary outputs.
 
 info.thermalexpansion.augment.machineFurnaceFood=Redstone Furnace: Specialization
 info.thermalexpansion.augment.machineFurnaceFood.0=Increases food output.
@@ -253,7 +258,7 @@ item.thermalexpansion.augment.dynamoOutput0.name=Secondary Transmission Coil
 item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulation Booster
 item.thermalexpansion.augment.dynamoOutput2.name=CryoCoil Flux Amplifier
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Integrated Servo Mechanism
+item.thermalexpansion.augment.generalAutoOutput.name=Integrated Servo Mechanism
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrated Redstone Circuit
 

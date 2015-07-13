@@ -154,8 +154,8 @@ info.thermalexpansion.augment.dynamoOutput.0=Дополнительный RF/т
 info.thermalexpansion.augment.dynamoThrottle=Генератор: Продвинутое регулирование
 info.thermalexpansion.augment.dynamoThrottle.0=Улучшает регулирование генератора так, что он может уменьшить выход энергии до 0 RF/т.
 
-info.thermalexpansion.augment.generalAutoTransfer=Автоматический выход
-info.thermalexpansion.augment.generalAutoTransfer.0=Позволяет предметам и жидкостям автоматически выводиться из устройства.
+info.thermalexpansion.augment.generalAutoOutput=Автоматический выход
+info.thermalexpansion.augment.generalAutoOutput.0=Позволяет предметам и жидкостям автоматически выводиться из устройства.
 info.thermalexpansion.augment.generalReconfigSides=Настраиваемые стороны
 info.thermalexpansion.augment.generalReconfigSides.0=Позволяет заново настроить стороны устройства.
 info.thermalexpansion.augment.generalRedstoneControl=Красный контроль
@@ -253,7 +253,7 @@ item.thermalexpansion.augment.dynamoOutput0.name=Вторичная отдающ
 item.thermalexpansion.augment.dynamoOutput1.name=Усилитель модуляции флакса
 item.thermalexpansion.augment.dynamoOutput2.name=Флаксовый усилитель криогенной катушки
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Интегрированный сервомеханизм
+item.thermalexpansion.augment.generalAutoOutput.name=Интегрированный сервомеханизм
 item.thermalexpansion.augment.generalReconfigSides.name=Интегрированная модульная структура
 item.thermalexpansion.augment.generalRedstoneControl.name=Интегрированная красная схема
 

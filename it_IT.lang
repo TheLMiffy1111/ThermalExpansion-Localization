@@ -154,8 +154,8 @@ info.thermalexpansion.augment.dynamoOutput.0=RF/t addizionale
 info.thermalexpansion.augment.dynamoThrottle=Dinamo: Acceleratore avanzato
 info.thermalexpansion.augment.dynamoThrottle.0=Migliora l'accelerazione del dinamo così che può ridurre la corrente prodotta a 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Uscita automatica
-info.thermalexpansion.augment.generalAutoTransfer.0=Permette a oggetti e fluidi di essere automaticamente trasportati fuori dal dispositivo.
+info.thermalexpansion.augment.generalAutoOutput=Uscita automatica
+info.thermalexpansion.augment.generalAutoOutput.0=Permette a oggetti e fluidi di essere automaticamente trasportati fuori dal dispositivo.
 info.thermalexpansion.augment.generalReconfigSides=Lati riconfigurabili
 info.thermalexpansion.augment.generalReconfigSides.0=Permette ai lati di un dispositivo di essere riconfigurati.
 info.thermalexpansion.augment.generalRedstoneControl=Controllo pietrarossa
@@ -250,7 +250,7 @@ item.thermalexpansion.augment.dynamoOutput0.name=Bobina di trasmissione secondar
 item.thermalexpansion.augment.dynamoOutput1.name=Potenziatore di modulazione del flux
 item.thermalexpansion.augment.dynamoOutput2.name=CrioBobina amplificatore del flux 
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Servomotore integrato
+item.thermalexpansion.augment.generalAutoOutput.name=Servomotore integrato
 item.thermalexpansion.augment.generalReconfigSides.name=Impalcatura modulare integrato
 item.thermalexpansion.augment.generalRedstoneControl.name=Circuito di pietrarossa integrato
 

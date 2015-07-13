@@ -165,8 +165,8 @@ info.thermalexpansion.augment.dynamoOutput.0=增加 RF/t
 info.thermalexpansion.augment.dynamoThrottle=發電機:高級節流閥
 info.thermalexpansion.augment.dynamoThrottle.0=加強發電機的節流閥, 因此有可能將能量輸出減至0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=自動輸出
-info.thermalexpansion.augment.generalAutoTransfer.0=允許物品和流體從設備中自動輸出.
+info.thermalexpansion.augment.generalAutoOutput=自動輸出
+info.thermalexpansion.augment.generalAutoOutput.0=允許物品和流體從設備中自動輸出.
 info.thermalexpansion.augment.generalReconfigSides=設備編輯化
 info.thermalexpansion.augment.generalReconfigSides.0=允許重新設置設備的每個面.
 info.thermalexpansion.augment.generalRedstoneControl=紅石控制
@@ -255,7 +255,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=流量調控加速
 item.thermalexpansion.augment.dynamoOutput2.name=低溫線圈增幅
 item.thermalexpansion.augment.dynamoThrottle.name=節流閥裝置
 
-item.thermalexpansion.augment.generalAutoTransfer.name=積體伺服裝置
+item.thermalexpansion.augment.generalAutoOutput.name=積體伺服裝置
 item.thermalexpansion.augment.generalReconfigSides.name=積體模組框架
 item.thermalexpansion.augment.generalRedstoneControl.name=積體紅石電路
 

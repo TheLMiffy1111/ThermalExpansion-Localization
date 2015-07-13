@@ -141,8 +141,8 @@ info.thermalexpansion.augment.dynamoOutput.0=Extra RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Geanvanceerde schakeling
 info.thermalexpansion.augment.dynamoThrottle.0=Verbeter de schakeling van een dynamo zodat de energie outvoer kan worden verlaagt naar 0 RF/t.
 
-info.thermalexpansion.augment.generalAutoTransfer=Geautomatiseerde Uitvoer
-info.thermalexpansion.augment.generalAutoTransfer.0=Staat items en vloeistoffen to om automatisch out de machine te worden getransporteerd.
+info.thermalexpansion.augment.generalAutoOutput=Geautomatiseerde Uitvoer
+info.thermalexpansion.augment.generalAutoOutput.0=Staat items en vloeistoffen to om automatisch out de machine te worden getransporteerd.
 info.thermalexpansion.augment.generalReconfigSides=Herinstelbare Zijdes
 info.thermalexpansion.augment.generalReconfigSides.0=Staat het herinstellen van de zijdes van een machine toe.
 info.thermalexpansion.augment.generalRedstoneControl=Redstone Besturing
@@ -214,7 +214,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulatie Versterker
 item.thermalexpansion.augment.dynamoOutput2.name=BevrorenSpoel Flux Versterker
 item.thermalexpansion.augment.dynamoThrottle.name=Opwekveld begrenzer
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Integrated Servo Mechanism
+item.thermalexpansion.augment.generalAutoOutput.name=Integrated Servo Mechanism
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrated Redstone Circuit
 

@@ -145,8 +145,8 @@ info.thermalexpansion.augment.dynamoOutput.0=Zusätzliche RF/t
 info.thermalexpansion.augment.dynamoThrottle=Dynamo: Fortgeschrittenes Drosseln
 info.thermalexpansion.augment.dynamoThrottle.0=Verbessert die Drosselung eines Dynamos, sodass Energieverschwendung auf 0 RF/t reduziert werden kann.
 
-info.thermalexpansion.augment.generalAutoTransfer=Automaticher Output
-info.thermalexpansion.augment.generalAutoTransfer.0=Ermöglicht es Items und Flüssigkeiten, automatisch aus dem Gerät transferiert zu werden.
+info.thermalexpansion.augment.generalAutoOutput=Automaticher Output
+info.thermalexpansion.augment.generalAutoOutput.0=Ermöglicht es Items und Flüssigkeiten, automatisch aus dem Gerät transferiert zu werden.
 info.thermalexpansion.augment.generalReconfigSides=Konfigurierbare Seiten
 info.thermalexpansion.augment.generalReconfigSides.0=Ermöglicht es, die seiten des Geräts zu rekonfigurieren.
 info.thermalexpansion.augment.generalRedstoneControl=Redstone-Kontrolle
@@ -207,7 +207,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=Fluxmodulations-Booster
 item.thermalexpansion.augment.dynamoOutput2.name=Kryospulen-Fluxverstärker
 item.thermalexpansion.augment.dynamoThrottle.name=Erregungsfeldbegrenzer
 
-item.thermalexpansion.augment.generalAutoTransfer.name=Integierter Servomechanismus
+item.thermalexpansion.augment.generalAutoOutput.name=Integierter Servomechanismus
 item.thermalexpansion.augment.generalReconfigSides.name=Integrietes Modulargerüst
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrierter Redstone-Schaltkreis
 
