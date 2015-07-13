@@ -156,7 +156,7 @@ info.thermalexpansion.augment.dynamoThrottle.0=Improves the throttling of a dyna
 
 info.thermalexpansion.augment.generalAutoOutput=Automated Output
 info.thermalexpansion.augment.generalAutoOutput.0=Allows for items and fluids to be automatically transferred out of a device.
-info.thermalexpansion.augment.generalAutoInput=Automated Output
+info.thermalexpansion.augment.generalAutoInput=Automated Input
 info.thermalexpansion.augment.generalAutoInput.0=Allows for items and fluids to be automatically transferred into of a device.
 info.thermalexpansion.augment.generalReconfigSides=Reconfigurable Sides
 info.thermalexpansion.augment.generalReconfigSides.0=Allows for the sides of a device to be reconfigured.
@@ -259,6 +259,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=Flux Modulation Booster
 item.thermalexpansion.augment.dynamoOutput2.name=CryoCoil Flux Amplifier
 
 item.thermalexpansion.augment.generalAutoOutput.name=Integrated Servo Mechanism
+item.thermalexpansion.augment.generalAutoInput.name=Integrated Hopper Apparatus
 item.thermalexpansion.augment.generalReconfigSides.name=Integrated Modular Framework
 item.thermalexpansion.augment.generalRedstoneControl.name=Integrated Redstone Circuit
 
@@ -268,6 +269,8 @@ item.thermalexpansion.augment.machineSecondary2.name=GyroServo Feedback
 item.thermalexpansion.augment.machineSpeed0.name=Secondary Reception Coil
 item.thermalexpansion.augment.machineSpeed1.name=Overclocked Modular Gearbox
 item.thermalexpansion.augment.machineSpeed2.name=Space-Time Flux Unifier
+
+item.thermalexpansion.augment.machineNull.name=Nullification Chamber
 
 item.thermalexpansion.augment.machineFurnaceFood.name=Trivection Chamber
 
