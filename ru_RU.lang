@@ -131,30 +131,32 @@ info.thermalexpansion.resonant=Резонирующ.
 
 info.thermalexpansion.augment=Расширение
 info.thermalexpansion.augment.energyProduced=Энергии произведено
-info.thermalexpansion.augment.energyConsumed=Энергии потреблено
+info.thermalexpansion.augment.energyUsed=Энергии использовано
 info.thermalexpansion.augment.fuelConsumed=Топлива потреблено
 info.thermalexpansion.augment.fuelEnergy=Основная энергия топлива
 info.thermalexpansion.augment.levels.0=Требуется, чтобы предыдущие уровни были установлены.
 info.thermalexpansion.augment.levels.1=Используется высочайший уровень расширения.
-info.thermalexpansion.augment.levels.2=Требуется установленный красный контроль.
 info.thermalexpansion.augment.machine.0=Требуется
 info.thermalexpansion.augment.machine.1=механизм
-info.thermalexpansion.augment.secondaryChance=Вторичный шанс
+info.thermalexpansion.augment.requireRS=Требуется установленный красный контроль.
 info.thermalexpansion.augment.perOperation=За операцию
 info.thermalexpansion.augment.production=Производство
+info.thermalexpansion.augment.secondaryChance=Вторичный шанс
 info.thermalexpansion.augment.speed=Скорость
 info.thermalexpansion.augment.upTo=До
 info.thermalexpansion.augment.waterConsumed=Воды потреблено
 
 info.thermalexpansion.augment.dynamoCoilDuct=Генератор: Сторонняя доступность
-info.thermalexpansion.augment.dynamoCoilDuct.0=Позволяет вводить/выводить предметы и жидкости через катушку генератора.
+info.thermalexpansion.augment.dynamoCoilDuct.0=Добавляет ввод/вывод катушке генератора.
 info.thermalexpansion.augment.dynamoEfficiency=Генератор: Эффективность топлива
 info.thermalexpansion.augment.dynamoOutput=Генератор: Выходная энергия
 info.thermalexpansion.augment.dynamoThrottle=Генератор: Продвинутое регулирование
-info.thermalexpansion.augment.dynamoThrottle.0=Улучшает регулирование генератора так, что он может уменьшить выход энергии до 0 RF/т.
+info.thermalexpansion.augment.dynamoThrottle.0=Устанавливает мин. выход генератора на 0 RF/t.
 
 info.thermalexpansion.augment.generalAutoOutput=Автоматический выход
-info.thermalexpansion.augment.generalAutoOutput.0=Позволяет предметам и жидкостям автоматически выводиться из устройства.
+info.thermalexpansion.augment.generalAutoOutput.0=Автоматический вывод из устройства.
+info.thermalexpansion.augment.generalAutoInput=Автоматический вход
+info.thermalexpansion.augment.generalAutoInput.0=Автоматический ввод в устройство.
 info.thermalexpansion.augment.generalReconfigSides=Настраиваемые стороны
 info.thermalexpansion.augment.generalReconfigSides.0=Позволяет заново настроить стороны устройства.
 info.thermalexpansion.augment.generalRedstoneControl=Красный контроль
@@ -162,6 +164,9 @@ info.thermalexpansion.augment.generalRedstoneControl.0=Позволяет уст
 
 info.thermalexpansion.augment.machineSecondary=Механизм: Вторичный выход
 info.thermalexpansion.augment.machineSpeed=Механизм: Скорость обработки
+
+info.thermalexpansion.augment.machineNull=Механизм: Вторичный аннулятор
+info.thermalexpansion.augment.machineNull.0=Уничтожает лишние вторичные продукты.
 
 info.thermalexpansion.augment.machineFurnaceFood=Красная печь: Специализация
 info.thermalexpansion.augment.machineFurnaceFood.0=Увеличивает выход еды.
@@ -253,6 +258,7 @@ item.thermalexpansion.augment.dynamoOutput1.name=Усилитель модуля
 item.thermalexpansion.augment.dynamoOutput2.name=Флаксовый усилитель криогенной катушки
 
 item.thermalexpansion.augment.generalAutoOutput.name=Интегрированный сервомеханизм
+item.thermalexpansion.augment.generalAutoInput.name=Интегрированная воронка
 item.thermalexpansion.augment.generalReconfigSides.name=Интегрированная модульная структура
 item.thermalexpansion.augment.generalRedstoneControl.name=Интегрированная красная схема
 
@@ -262,6 +268,8 @@ item.thermalexpansion.augment.machineSecondary2.name=Отклик гиросер
 item.thermalexpansion.augment.machineSpeed0.name=Вторичная принимающая катушка
 item.thermalexpansion.augment.machineSpeed1.name=Разогнанный модульный редуктор
 item.thermalexpansion.augment.machineSpeed2.name=Пространственно-временной унификатор флакса
+
+item.thermalexpansion.augment.machineNull.name=Камера аннулирования
 
 item.thermalexpansion.augment.machineFurnaceFood.name=Тривекционная камера
 
