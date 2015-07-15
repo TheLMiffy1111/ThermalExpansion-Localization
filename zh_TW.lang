@@ -187,7 +187,6 @@ info.thermalexpansion.capacitor.3=按住潛行(shift)鍵再次右擊即可取消
 info.thermalexpansion.capacitor.4=必須放在快捷欄內.
 info.thermalexpansion.capacitor.potato=聰明的選擇,可惜這不能再次充能.
 
-info.thermalexpansion.device.workbench=可以使用藍圖製作東西.
 info.thermalexpansion.device.activator=可以做的事情多到無法用提示來解釋.
 info.thermalexpansion.device.breaker=破壞東西簡單無比.
 info.thermalexpansion.device.nullifier=移除任何存在的東西.
@@ -226,6 +225,8 @@ info.thermalexpansion.machine.insolator=給植物注入'太陽'和RF.
 info.thermalexpansion.plate.signal=發出紅石信號當接觸東西時.
 info.thermalexpansion.plate.impulse=給予接觸的東西力道.
 info.thermalexpansion.plate.translocate=瞬間移動接觸的東西.
+
+info.thermalexpansion.workbench=可以使用藍圖製作東西.
 
 info.thermalexpansion.florb.0=可容納1000mB大多數的流體.
 info.thermalexpansion.florb.1=可容納1000mB大多數的熱流體.
@@ -324,9 +325,6 @@ recipe.thermalexpansion.secure=安全合成
 tab.thermalexpansion.cell.0=儲存RF.
 tab.thermalexpansion.cell.1=按住Shift或Ctrl調節能量控制.
 
-tab.thermalexpansion.device.workbench.0=合成物品!
-tab.thermalexpansion.device.workbench.1=合成配方可以匯入或匯出藍圖.
-tab.thermalexpansion.device.workbench.2=Shift右擊藍圖以直接合成已有配方.
 tab.thermalexpansion.device.activator.0=它能切片!能切塊!能推倒東西,也能丟東西!
 tab.thermalexpansion.device.activator.1=它或許是隨機的,或許不是.或許是潛行的,或許不是.
 tab.thermalexpansion.device.activator.2=看起來就是萬能的!
@@ -405,6 +403,10 @@ tab.thermalexpansion.storage.enchant=附魔後可儲存更多物品!
 
 tab.thermalexpansion.strongbox.0=這是個保險箱!用於儲存物品.嗯,很多物品.
 tab.thermalexpansion.strongbox.creative=無限制儲存某種物品!
+
+tab.thermalexpansion.workbench.0=合成物品!
+tab.thermalexpansion.workbench.1=合成配方可以匯入或匯出藍圖.
+tab.thermalexpansion.workbench.2=Shift右擊藍圖以直接合成已有配方.
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=創造儲物桶

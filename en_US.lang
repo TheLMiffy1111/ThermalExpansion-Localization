@@ -181,7 +181,6 @@ info.thermalexpansion.capacitor.3=Use while sneaking to deactivate.
 info.thermalexpansion.capacitor.4=Must remain in hotbar.
 info.thermalexpansion.capacitor.potato=Clever! But not rechargeable.
 
-info.thermalexpansion.device.workbench=Crafts things; can use blueprints.
 info.thermalexpansion.device.activator=Does more than a tooltip can explain.
 info.thermalexpansion.device.breaker=Breaks blocks. Simple enough.
 info.thermalexpansion.device.nullifier=Removes things from existence.
@@ -223,6 +222,8 @@ info.thermalexpansion.plate.translocate=Teleports things on contact.
 
 info.thermalexpansion.rockwool.default=Created by smelting Slag.
 info.thermalexpansion.rockwool.dyed=Created by dyeing other Rockwool.
+
+info.thermalexpansion.workbench=Crafts things. Can use Schematics to craft quickly.
 
 info.thermalexpansion.florb.0=Holds 1000 mB of most fluids.
 info.thermalexpansion.florb.1=Holds 1000 mB of most hot fluids.
@@ -333,9 +334,6 @@ recipe.thermalexpansion.secure=Security Crafting
 tab.thermalexpansion.cell.0=Stores Redstone Flux.
 tab.thermalexpansion.cell.1=Hold Shift or Ctrl to fine tune energy control.
 
-tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
 tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
 tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
 tab.thermalexpansion.device.activator.2=Deceptively versatile!
@@ -415,6 +413,11 @@ tab.thermalexpansion.storage.enchant=Can be enchanted to hold more things!
 tab.thermalexpansion.strongbox.0=It's a box! It stores things. Well, most things.
 tab.thermalexpansion.strongbox.creative=Holds unlimited amounts of a single thing!
 
+tab.thermalexpansion.workbench.0=Crafts things!
+tab.thermalexpansion.workbench.1=A crafting recipe may be written to or read from a schematic.
+tab.thermalexpansion.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
+tab.thermalexpansion.workbench.creative=
+
 #Blocks
 tile.thermalexpansion.cache.creative.name=Creative Cache
 tile.thermalexpansion.cache.basic.name=Cache
@@ -429,7 +432,6 @@ tile.thermalexpansion.cell.hardened.name=Hardened Energy Cell
 tile.thermalexpansion.cell.reinforced.name=Redstone Energy Cell
 tile.thermalexpansion.cell.resonant.name=Resonant Energy Cell
 
-tile.thermalexpansion.device.workbench.name=Machinist's Workbench
 tile.thermalexpansion.device.activator.name=Autonomous Activator
 tile.thermalexpansion.device.breaker.name=Terrain Smasher
 tile.thermalexpansion.device.nullifier.name=Nullifier
@@ -515,3 +517,16 @@ tile.thermalexpansion.tank.basic.name=Portable Tank
 tile.thermalexpansion.tank.hardened.name=Hardened Portable Tank
 tile.thermalexpansion.tank.reinforced.name=Reinforced Portable Tank
 tile.thermalexpansion.tank.resonant.name=Resonant Portable Tank
+
+tile.thermalexpansion.workbench.creative.name=Creative Machinist's Workbench
+tile.thermalexpansion.workbench.basic.name=Machinist's Workbench
+tile.thermalexpansion.workbench.hardened.name=Hardened Machinist's Workbench
+tile.thermalexpansion.workbench.reinforced.name=Reinforced Machinist's Workbench
+tile.thermalexpansion.workbench.resonant.name=Resonant Machinist's Workbench
+
+#To be removed
+tile.thermalexpansion.device.workbench.name=Machinist's Workbench
+info.thermalexpansion.device.workbench=Crafts things, can make use of Schematics.
+tab.thermalexpansion.device.workbench.0=Crafts things!
+tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
+tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.

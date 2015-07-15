@@ -176,7 +176,6 @@ info.thermalexpansion.capacitor.3=Použij při plížení pro deaktivaci.
 info.thermalexpansion.capacitor.4=Musí zůstat v hotbaru.
 info.thermalexpansion.capacitor.potato=Chytré! Ale né znovunabíjecí.
 
-info.thermalexpansion.device.workbench=Vyrábí věci; může použít modrotisky.
 info.thermalexpansion.device.activator=Dělá více, než může pouhý popisek vysvětlit.
 info.thermalexpansion.device.breaker=Ničí bloky. Dost jednoduché.
 info.thermalexpansion.device.nullifier=Odstraňuje věci ze světa.
@@ -218,6 +217,8 @@ info.thermalexpansion.plate.translocate=Při kontaktu teleportuje věci.
 
 info.thermalexpansion.rockwool.default=Vytvořeno upečením strusky.
 info.thermalexpansion.rockwool.dyed=Vytvořeno barvením jiné skelté vaty.
+
+info.thermalexpansion.workbench=Vyrábí věci; může použít modrotisky.
 
 info.thermalexpansion.florb.0=Uchová 1000 mB většiny tekutin.
 info.thermalexpansion.florb.1=Uchová 1000 mB většiny horkých tekutin.
@@ -325,9 +326,6 @@ recipe.thermalexpansion.secure=Výroba zabezpečení
 tab.thermalexpansion.cell.0=Ukládá ruditový Flux.
 tab.thermalexpansion.cell.1=Podrž Shift nebo Ctrl pro upravení nastavení energie.
 
-tab.thermalexpansion.device.workbench.0=Vyrábí věci!
-tab.thermalexpansion.device.workbench.1=Výrobní recept může být zapsát nebo přečten ze schématu.
-tab.thermalexpansion.device.workbench.2=Klikni se Shiftem + pravé tl. myši na schéma pro přímou výrobu uloženého receptu.
 tab.thermalexpansion.device.activator.0=Řeže to! Krájí to! Sype to věci, háže to věci!
 tab.thermalexpansion.device.activator.1=Možná to je náhodné, možná ne. Možná to je záludné, možná ne.
 tab.thermalexpansion.device.activator.2=Klamně universální!
@@ -406,6 +404,10 @@ tab.thermalexpansion.storage.enchant=Může být očarována pro uskladnění v�
 
 tab.thermalexpansion.strongbox.0=Je to krabice! Uskladňuje věci. No dobře, většinu věcí.
 tab.thermalexpansion.strongbox.creative=Uskladňuje neomezený počet kusů od jedné věci!
+
+tab.thermalexpansion.workbench.0=Vyrábí věci!
+tab.thermalexpansion.workbench.1=Výrobní recept může být zapsát nebo přečten ze schématu.
+tab.thermalexpansion.workbench.2=Klikni se Shiftem + pravé tl. myši na schéma pro přímou výrobu uloženého receptu.
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Kreativní keš

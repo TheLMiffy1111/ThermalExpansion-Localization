@@ -176,7 +176,6 @@ info.thermalexpansion.capacitor.3=按住潜行(shift)键再次右击即可取消
 info.thermalexpansion.capacitor.4=必须放在快捷栏内.
 info.thermalexpansion.capacitor.potato=机智的马铃薯君,可惜不能再次充能.
 
-info.thermalexpansion.device.workbench=合成物品;可使用蓝图.
 info.thermalexpansion.device.activator=能做的事情比提示文本告诉你的还要多.
 info.thermalexpansion.device.breaker=破坏方块.不能再简单了.
 info.thermalexpansion.device.nullifier=彻底移除物品的存在.
@@ -215,6 +214,8 @@ info.thermalexpansion.machine.insolator=将'太阳'和RF注入植物中.
 info.thermalexpansion.plate.signal=向触点上物体发射红石信号.
 info.thermalexpansion.plate.impulse=向触点上物体施加动力.
 info.thermalexpansion.plate.translocate=传送触点上的物体.
+
+info.thermalexpansion.workbench=合成物品;可使用蓝图.
 
 info.thermalexpansion.florb.0=可容纳1000mB大多数类型流体.
 info.thermalexpansion.florb.1=可容纳1000mB大多数类型流体.
@@ -322,9 +323,6 @@ recipe.thermalexpansion.secure=安全保护合成
 tab.thermalexpansion.cell.0=储存RF.
 tab.thermalexpansion.cell.1=按住Shift或Ctrl调节能量控制.
 
-tab.thermalexpansion.device.workbench.0=合成物品!
-tab.thermalexpansion.device.workbench.1=合成配方可以导入或导出图纸.
-tab.thermalexpansion.device.workbench.2=Shift右击图纸以直接合成既存配方.
 tab.thermalexpansion.device.activator.0=它能切片!能切块!能倒东西,也能扔东西!
 tab.thermalexpansion.device.activator.1=它可能是随机的,也可能不是.可能是潜行的,也可能不是.
 tab.thermalexpansion.device.activator.2=看起来就是万能的!
@@ -403,6 +401,10 @@ tab.thermalexpansion.storage.enchant=附魔后可储存更多物品!
 
 tab.thermalexpansion.strongbox.0=这是个箱子!用于储存物品.唔,很多物品.
 tab.thermalexpansion.strongbox.creative=无限制储存某种物品!
+
+tab.thermalexpansion.workbench.0=合成物品!
+tab.thermalexpansion.workbench.1=合成配方可以导入或导出图纸.
+tab.thermalexpansion.workbench.2=Shift右击图纸以直接合成既存配方.
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=创造储物箱

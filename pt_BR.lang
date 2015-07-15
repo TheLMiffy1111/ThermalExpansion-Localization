@@ -178,7 +178,6 @@ info.thermalexpansion.capacitor.3=Use enquanto agachado para desativar.
 info.thermalexpansion.capacitor.4=Deve permanecer na barra.
 info.thermalexpansion.capacitor.potato=Esperto! Mas não pode ser recarregado.
 
-info.thermalexpansion.device.workbench=Cria coisas; pode usar Projetos
 info.thermalexpansion.device.activator=Faz mais do que uma simples dica de ferramenta pode explicar.
 info.thermalexpansion.device.breaker=Quebra blocos. Bastante simples.
 info.thermalexpansion.device.nullifier=Remove as coisas da existência.
@@ -207,6 +206,8 @@ info.thermalexpansion.machine.accumulator=Puxa água das redondezas.
 info.thermalexpansion.machine.assembler=Monta itens.
 info.thermalexpansion.machine.charger=Carrega itens com RF.
 info.thermalexpansion.machine.insolator=Infunde nas plantas 'Sol' e RF.
+
+info.thermalexpansion.workbench=Cria coisas, pode usar Esquemas.
 
 info.thermalexpansion.florb.0=Segura 1000 mB da maioria dos flúidos.
 info.thermalexpansion.florb.1=Segura 1000 mB da maioria dos flúidos quentes.
@@ -296,9 +297,6 @@ recipe.thermalexpansion.upgrade=Atualização de Montagem
 tab.thermalexpansion.cell.0=Armazena Redstone Flux.
 tab.thermalexpansion.cell.1=Segure SHIFT ou CTRL para um controle de energia mais preciso.
 
-tab.thermalexpansion.device.workbench.0=Monta coisas!
-tab.thermalexpansion.device.workbench.1=Uma receita de montagem pode ser escrita para ou lida de um Esquema.
-tab.thermalexpansion.device.workbench.2=SHIFT + Botão Direito em um Esquema para criar a receita salva diretamente.
 tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=Ele fatia! Ele corta! Ele derrama coisas, ele lança as coisas!
 tab.thermalexpansion.device.activator.1=Talvez seja aleatório, talvez não. Talvez seja furtivo, talvez não.
@@ -378,6 +376,10 @@ tab.thermalexpansion.storage.enchant=Pode ser encantado para guardar mais coisas
 
 tab.thermalexpansion.strongbox.0=É uma caixa! Ela guarda coisas. Bem, a maioria das coisas.
 tab.thermalexpansion.strongbox.creative=Guarda uma quantidade ilimitada de uma única coisa!
+
+tab.thermalexpansion.workbench.0=Monta coisas!
+tab.thermalexpansion.workbench.1=Uma receita de montagem pode ser escrita para ou lida de um Esquema.
+tab.thermalexpansion.workbench.2=SHIFT + Botão Direito em um Esquema para criar a receita salva diretamente.
 
 #Blocos
 tile.thermalexpansion.cache.creative.name=Estoque Criativo

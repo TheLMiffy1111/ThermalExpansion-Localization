@@ -263,9 +263,6 @@ itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
 tab.thermalexpansion.cell.0=Speichert Redstone Flux.
 tab.thermalexpansion.cell.1=Halte Shift oder Strg, um Energiekontrolle zu konfigurieren.
 
-tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
 tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
 tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
@@ -330,6 +327,10 @@ tab.thermalexpansion.storage.enchant=Kann verzaubert werden, um mehr Items zu tr
 tab.thermalexpansion.strongbox.0=Eine Truhe! Sie kann Dinge enthalten. Naja, die meisten.
 tab.thermalexpansion.strongbox.creative=Kann unendlich viele Items einer Sorte enthalten!
 
+tab.thermalexpansion.workbench.0=Crafts things!
+tab.thermalexpansion.workbench.1=A crafting recipe may be written to or read from a schematic.
+tab.thermalexpansion.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
+
 #Blocks
 tile.thermalexpansion.cache.creative.name=Kreativer Cache
 tile.thermalexpansion.cache.basic.name=Cache
@@ -344,7 +345,6 @@ tile.thermalexpansion.cell.hardened.name=Gehärtete Energiezelle
 tile.thermalexpansion.cell.reinforced.name=Redstone-Energiezelle
 tile.thermalexpansion.cell.resonant.name=Resonante Energiezelle
 
-tile.thermalexpansion.device.workbench.name=Maschinistenwerkbank
 tile.thermalexpansion.device.lexicon.name=Forge-Lexikon
 tile.thermalexpansion.device.activator.name=Autonomer Aktivator
 tile.thermalexpansion.device.breaker.name=Terrainzerschlager
@@ -420,3 +420,5 @@ tile.thermalexpansion.tank.basic.name=Tragbarer Tank
 tile.thermalexpansion.tank.hardened.name=Gehärteter Tragbarer Tank
 tile.thermalexpansion.tank.reinforced.name=Verstärkter Tragbarer Tank
 tile.thermalexpansion.tank.resonant.name=Resonanter Tragbarer Tank
+
+tile.thermalexpansion.workbench.basic.name=Maschinistenwerkbank

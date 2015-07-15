@@ -177,7 +177,6 @@ info.thermalexpansion.capacitor.3=Usa con Shift per disattivare.
 info.thermalexpansion.capacitor.4=Deve rimanere a portata di mano.
 info.thermalexpansion.capacitor.potato=Intelligente! Ma non ricaricabile.
 
-info.thermalexpansion.device.workbench=Fabbrica cose; può usare diagrammi.
 info.thermalexpansion.device.activator=Fa più cose di quanto un tooltip possa spiegare.
 info.thermalexpansion.device.breaker=Spacca i blocchi. Facile, no?
 info.thermalexpansion.device.nullifier=Rimuove gli oggetti dall'esistenza.
@@ -216,6 +215,8 @@ info.thermalexpansion.machine.insolator=Infonde le piante con 'sole e RF.
 info.thermalexpansion.plate.signal=Emette un segnale di pietrarossa al contatto.
 info.thermalexpansion.plate.impulse=Impartisce movimento a oggetti al contatto.
 info.thermalexpansion.plate.translocate=Teletrasporta oggetti al contatto.
+
+info.thermalexpansion.workbench=Fabbrica cose; può usare diagrammi.
 
 info.thermalexpansion.florb.0=Contiene 1000 mB di quasi tutti i tipi di fluidi.
 info.thermalexpansion.florb.1=Contiene 1000 mB di quasi tutti i tipi di fluidi caldi.
@@ -323,9 +324,6 @@ recipe.thermalexpansion.secure=Fabbr. sicurezza
 tab.thermalexpansion.cell.0=Immagazina Redstone Flux.
 tab.thermalexpansion.cell.1=Premi Shift o Ctrl per sintonizare il controllo dell'energia.
 
-tab.thermalexpansion.device.workbench.0=Fabbrica cose!
-tab.thermalexpansion.device.workbench.1=Una ricetta può essere scritta su o letta da un cianotipo.
-tab.thermalexpansion.device.workbench.2=Shift + click destro su un cianotipo per direttamente fabbricare la ricetta salvata.
 tab.thermalexpansion.device.activator.0=Taglia a fette! Taglia a dadini! Versa cose, lancia cose!
 tab.thermalexpansion.device.activator.1=Forse è a caso, forse non lo è. Forse è furbo, forse no.
 tab.thermalexpansion.device.activator.2=Sorprentemente versatile!
@@ -404,6 +402,10 @@ tab.thermalexpansion.storage.enchant=Può essere incantato per tenere più cose!
 
 tab.thermalexpansion.strongbox.0=E' una cassa! Contiene oggetti. Cioè, la maggior parte degli oggetti.
 tab.thermalexpansion.strongbox.creative=Tiene una quantità illimitata di un tipo di oggetto!
+
+tab.thermalexpansion.workbench.0=Fabbrica cose!
+tab.thermalexpansion.workbench.1=Una ricetta può essere scritta su o letta da un cianotipo.
+tab.thermalexpansion.workbench.2=Shift + click destro su un cianotipo per direttamente fabbricare la ricetta salvata.
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Ripostiglio creativa

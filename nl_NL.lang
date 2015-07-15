@@ -157,7 +157,6 @@ info.thermalexpansion.capacitor.3=Gebruik tijdens het sluipen om te deactiveren.
 info.thermalexpansion.capacitor.4=Moet op de hotbar blijven.
 info.thermalexpansion.capacitor.potato=Slim! Maar niet oplaadbaar.
 
-info.thermalexpansion.device.workbench=Vervaardigt dingen; kan bouwschema's gebruiken.
 info.thermalexpansion.device.activator=Doet meer dan dat een tooltip kan vertellen.
 info.thermalexpansion.device.breaker=Breekt blokken. Simpel Genoeg.
 info.thermalexpansion.device.nullifier=Verwijdert dingen uit hun bestaan.
@@ -186,6 +185,8 @@ info.thermalexpansion.machine.accumulator=Ontrekt water vanuit de omgeving.
 info.thermalexpansion.machine.assembler=Vervaardigt items.
 info.thermalexpansion.machine.charger=Laad items op met RF.
 info.thermalexpansion.machine.insolator=Doordrenkt planten met 'zon' en RF.
+
+info.thermalexpansion.workbench=Vervaardigt dingen; kan bouwschema's gebruiken.
 
 info.thermalexpansion.florb.0=Bevat 1000 mB van de meeste vloeistoffen.
 info.thermalexpansion.florb.1=Bevat 1000 mB van de meeste hete vloeistoffen.
@@ -275,9 +276,6 @@ recipe.thermalexpansion.upgrade=Verbetering Vervaardiging
 tab.thermalexpansion.cell.0=Slaat Redstone Flux op.
 tab.thermalexpansion.cell.1=Houd Shift of Ctrl in om de energie controle te verfijnen.
 
-tab.thermalexpansion.device.workbench.0=Vervaardigt dingen!
-tab.thermalexpansion.device.workbench.1=Een vervaardigings recept kan vanuit een Bouwschema worden ingelezen.
-tab.thermalexpansion.device.workbench.2=Shift + Rechts Klik op een Bouwschema om het opgeslagen recept direct te vervaardigen.
 tab.thermalexpansion.device.lexicon.0=
 tab.thermalexpansion.device.activator.0=Het snijd! Het hakt fijn! Het giet dingen, Het gooit dingen!
 tab.thermalexpansion.device.activator.1=Misschien is het willekeurig, misschien ook niet. Misschien is het gluiperig, mischien niet.
@@ -355,6 +353,10 @@ tab.thermalexpansion.storage.enchant=Can worden betoverd om meer items op te sla
 
 tab.thermalexpansion.strongbox.0=Het is een doos! Het slaat dingen op. Nou ja, de meeste dingen.
 tab.thermalexpansion.strongbox.creative=Bevat een oneindige hoeveelheid van één ding!
+
+tab.thermalexpansion.workbench.0=Vervaardigt dingen!
+tab.thermalexpansion.workbench.1=Een vervaardigings recept kan vanuit een Bouwschema worden ingelezen.
+tab.thermalexpansion.workbench.2=Shift + Rechts Klik op een Bouwschema om het opgeslagen recept direct te vervaardigen.
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Creative Cache
