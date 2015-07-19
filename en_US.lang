@@ -416,7 +416,7 @@ tab.thermalexpansion.strongbox.creative=Holds unlimited amounts of a single thin
 tab.thermalexpansion.workbench.0=Crafts things!
 tab.thermalexpansion.workbench.1=A crafting recipe may be written to or read from a schematic.
 tab.thermalexpansion.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
-tab.thermalexpansion.workbench.creative=
+tab.thermalexpansion.workbench.creative=Items are optional!
 
 #Blocks
 tile.thermalexpansion.cache.creative.name=Creative Cache
@@ -527,6 +527,3 @@ tile.thermalexpansion.workbench.resonant.name=Resonant Machinist's Workbench
 #To be removed
 tile.thermalexpansion.device.workbench.name=Machinist's Workbench
 info.thermalexpansion.device.workbench=Crafts things, can make use of Schematics.
-tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
