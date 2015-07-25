@@ -114,9 +114,9 @@ info.thermalexpansion.modeSend=Nur Senden
 info.thermalexpansion.modeSendRecv=Senden/Empfangen
 
 #Transposer
-info.thermalexpansion.toggleEmpty=Schalte: Leeren
-info.thermalexpansion.toggleFill=Schalte: Füllen
-info.thermalexpansion.toggleWait=Geschaltet
+info.thermalexpansion.transposer.toggleEmpty=Schalte: Leeren
+info.thermalexpansion.transposer.toggleFill=Schalte: Füllen
+info.thermalexpansion.transposer.toggleWait=Geschaltet
 
 #Tier Localization
 info.thermalexpansion.creative=Kreativ -

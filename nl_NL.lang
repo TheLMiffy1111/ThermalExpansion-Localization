@@ -104,9 +104,9 @@ info.thermalexpansion.modeSend=Alleen Verzenden
 info.thermalexpansion.modeSendRecv=Verzenden/Ontvangen
 
 #Transposer
-info.thermalexpansion.toggleEmpty=Schakel: Leeg
-info.thermalexpansion.toggleFill=Schakel: Vul
-info.thermalexpansion.toggleWait=Geschakeld
+info.thermalexpansion.transposer.toggleEmpty=Schakel: Leeg
+info.thermalexpansion.transposer.toggleFill=Schakel: Vul
+info.thermalexpansion.transposer.toggleWait=Geschakeld
 
 #Plates
 info.thermalexpansion.distance=Afstand

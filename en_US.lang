@@ -74,13 +74,6 @@ info.thermalexpansion.incSend=Increase RF Output by
 info.thermalexpansion.maxIn=Max Input
 info.thermalexpansion.maxOut=Max Output
 
-#Workbench
-info.thermalexpansion.gridClear=Clear Crafting Grid
-info.thermalexpansion.gridSet=Set Crafting Grid From Schematic
-info.thermalexpansion.noRecipe=No Recipe
-info.thermalexpansion.noSchematic=No Schematic
-info.thermalexpansion.writeSchematic=Write Schematic
-
 #Activator
 info.thermalexpansion.angleLevel=Aim Level
 info.thermalexpansion.angleLow=Aim Low
@@ -93,6 +86,12 @@ info.thermalexpansion.slotsRR=Round Robin Item Use
 info.thermalexpansion.sneakOff=Not Sneaking
 info.thermalexpansion.sneakOn=Sneaking
 
+#Buffer
+info.thermalexpansion.buffer.disableInput=Disable Input
+info.thermalexpansion.buffer.disableOutput=Disable Output
+info.thermalexpansion.buffer.enableInput=Enable Input
+info.thermalexpansion.buffer.enableOutput=Enable Output
+
 #Tesseract
 info.thermalexpansion.inactive=Inactive
 info.thermalexpansion.modeBlocked=Blocked
@@ -104,23 +103,30 @@ info.thermalexpansion.modeSend=Send Only
 info.thermalexpansion.modeSendRecv=Send/Receive
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=Lock Flux Slot
-info.thermalexpansion.toggleSmelterUnlock=Unlock Flux Slot
+info.thermalexpansion.smelter.toggleLock=Lock Flux Slot
+info.thermalexpansion.smelter.toggleUnlock=Unlock Flux Slot
 
 #Transposer
-info.thermalexpansion.toggleEmpty=Toggle: Empty
-info.thermalexpansion.toggleFill=Toggle: Fill
-info.thermalexpansion.toggleWait=Toggled
+info.thermalexpansion.transposer.toggleEmpty=Toggle: Empty
+info.thermalexpansion.transposer.toggleFill=Toggle: Fill
+info.thermalexpansion.transposer.toggleWait=Toggled
 
 #Insolator
-info.thermalexpansion.toggleInsolatorLock=Lock Fertilizer Slot
-info.thermalexpansion.toggleInsolatorUnlock=Unlock Fertilizer Slot
+info.thermalexpansion.insolator.toggleLock=Lock Fertilizer Slot
+info.thermalexpansion.insolator.toggleUnlock=Unlock Fertilizer Slot
 
 #Plates
 info.thermalexpansion.distance=Distance
 info.thermalexpansion.intensitySignal=Signal Strength
 info.thermalexpansion.intensityImpulse=Launch Force
 info.thermalexpansion.duration=Duration
+
+#Workbench
+info.thermalexpansion.gridClear=Clear Crafting Grid
+info.thermalexpansion.gridSet=Set Crafting Grid From Schematic
+info.thermalexpansion.noRecipe=No Recipe
+info.thermalexpansion.noSchematic=No Schematic
+info.thermalexpansion.writeSchematic=Write Schematic
 
 #Tier Localization
 info.thermalexpansion.creative=Creative
@@ -341,6 +347,9 @@ tab.thermalexpansion.device.breaker.0=Breaks all the things!
 tab.thermalexpansion.device.breaker.1=Keep face away from front of device.
 tab.thermalexpansion.device.nullifier.0=Sends all the things to /dev/null!
 tab.thermalexpansion.device.nullifier.1=It is a horrible place; even fluids cannot escape.
+tab.thermalexpansion.device.buffer.0=Stores and transfers items.
+tab.thermalexpansion.device.buffer.1=Better than a Hopper, really!
+tab.thermalexpansion.device.buffer.2=Hold Shift or Ctrl to fine tune quantities.
 
 tab.thermalexpansion.dynamo.0=Generation rate varies according to energy demand.
 tab.thermalexpansion.dynamo.steam.0=Generates Redstone Flux using Steam.
@@ -435,6 +444,7 @@ tile.thermalexpansion.cell.resonant.name=Resonant Energy Cell
 tile.thermalexpansion.device.activator.name=Autonomous Activator
 tile.thermalexpansion.device.breaker.name=Terrain Smasher
 tile.thermalexpansion.device.nullifier.name=Nullifier
+tile.thermalexpansion.device.buffer.name=
 
 tile.thermalexpansion.dynamo=Dynamo
 tile.thermalexpansion.dynamo.steam.name=Steam Dynamo

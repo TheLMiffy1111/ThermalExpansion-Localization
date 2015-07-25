@@ -117,17 +117,17 @@ info.thermalexpansion.modeSend=보내기
 info.thermalexpansion.modeSendRecv=받기/보내기
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=Lock Flux Slot
-info.thermalexpansion.toggleSmelterUnlock=Unlock Flux Slot
+info.thermalexpansion.smelter.toggleLock=Lock Flux Slot
+info.thermalexpansion.smelter.toggleUnlock=Unlock Flux Slot
 
 #액체운송기(Transposer)
-info.thermalexpansion.toggleEmpty=전환: 비우기
-info.thermalexpansion.toggleFill=전환: 채우기
-info.thermalexpansion.toggleWait=토글
+info.thermalexpansion.transposer.toggleEmpty=전환: 비우기
+info.thermalexpansion.transposer.toggleFill=전환: 채우기
+info.thermalexpansion.transposer.toggleWait=토글
 
 #Insolator
-info.thermalexpansion.toggleInsolatorLock=Lock Fertilizer Slot
-info.thermalexpansion.toggleInsolatorUnlock=Unlock Fertilizer Slot
+info.thermalexpansion.insolator.toggleLock=Lock Fertilizer Slot
+info.thermalexpansion.insolator.toggleUnlock=Unlock Fertilizer Slot
 
 #Plates
 info.thermalexpansion.distance=범위

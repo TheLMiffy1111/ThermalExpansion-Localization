@@ -116,17 +116,17 @@ info.thermalexpansion.modeSend=僅發送
 info.thermalexpansion.modeSendRecv=發送/接收
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=鎖定助熔劑槽
-info.thermalexpansion.toggleSmelterUnlock=解鎖助熔劑槽
+info.thermalexpansion.smelter.toggleLock=鎖定助熔劑槽
+info.thermalexpansion.smelter.toggleUnlock=解鎖助熔劑槽
 
 #Transposer
-info.thermalexpansion.toggleEmpty=切換:清空
-info.thermalexpansion.toggleFill=切換:填充
-info.thermalexpansion.toggleWait=已切換
+info.thermalexpansion.transposer.toggleEmpty=切換:清空
+info.thermalexpansion.transposer.toggleFill=切換:填充
+info.thermalexpansion.transposer.toggleWait=已切換
 
 #Insolator
-info.thermalexpansion.toggleInsolatorLock=鎖定肥料槽
-info.thermalexpansion.toggleInsolatorUnlock=解鎖肥料槽
+info.thermalexpansion.insolator.toggleLock=鎖定肥料槽
+info.thermalexpansion.insolator.toggleUnlock=解鎖肥料槽
 
 #Plates
 info.thermalexpansion.distance=距離

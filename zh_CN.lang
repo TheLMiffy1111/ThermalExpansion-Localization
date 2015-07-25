@@ -104,17 +104,17 @@ info.thermalexpansion.modeSend=仅发送
 info.thermalexpansion.modeSendRecv=发生/接收
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=锁定Flux格
-info.thermalexpansion.toggleSmelterUnlock=解锁Flux格
+info.thermalexpansion.smelter.toggleLock=锁定Flux格
+info.thermalexpansion.smelter.toggleUnlock=解锁Flux格
 
 #Transposer
-info.thermalexpansion.toggleEmpty=激活:空置
-info.thermalexpansion.toggleFill=激活:填充
-info.thermalexpansion.toggleWait=已激活
+info.thermalexpansion.transposer.toggleEmpty=激活:空置
+info.thermalexpansion.transposer.toggleFill=激活:填充
+info.thermalexpansion.transposer.toggleWait=已激活
 
 #Insolator
-info.thermalexpansion.toggleInsolatorLock=锁定肥料格
-info.thermalexpansion.toggleInsolatorUnlock=解锁肥料格
+info.thermalexpansion.insolator.toggleLock=锁定肥料格
+info.thermalexpansion.insolator.toggleUnlock=解锁肥料格
 
 #Plates
 info.thermalexpansion.distance=距离
