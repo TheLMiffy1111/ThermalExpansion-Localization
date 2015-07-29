@@ -129,11 +129,11 @@ info.thermalexpansion.noSchematic=Kein Schema
 info.thermalexpansion.writeSchematic=Schema beschreiben
 
 #Tier Localization
-info.thermalexpansion.creative=Kreativ
-info.thermalexpansion.basic=Basis
-info.thermalexpansion.hardened=Hart
-info.thermalexpansion.reinforced=Bewehr
-info.thermalexpansion.resonant=Resonant
+info.thermalexpansion.creative=Kreativ-
+info.thermalexpansion.basic=Basis-
+info.thermalexpansion.hardened=Hart-
+info.thermalexpansion.reinforced=Bewehr-
+info.thermalexpansion.resonant=Resonant-
 
 info.thermalexpansion.augment=Erweiterung
 info.thermalexpansion.augment.energyProduced=Produzierte Energie
